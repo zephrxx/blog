@@ -1,66 +1,63 @@
-# Jekyll configuration
-#markdown: redcarpet
-#highlighter: pygments
-markdown: kramdown
-highlighter: rouge
-paginate: 5
-language: 'en-uk'
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
-# Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+# Site settings
+title: "Mind Defy"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Medium inspired
 
-short_url: 'zephrxx.github.io/blog/'
-google_analytics: UA-69281367-1
-disqus: username
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+email: mindefy@gmail.com
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-# gems and other configs
-plugins: [jekyll-paginate]
+name: '勒西'
+author: 'Lexi'
+author_image: "/assets/images/author.jpg"
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+paginate:	5
 
+url: "http://mindefy.net" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@alwriterla'
 
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
 
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: false
-lsi: false
-username: zephrxx
-repo: blog
-branch: man
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://zephrxx.github.io/blog/
-source_url:  https://github.com/zephrxx/blog/
+#google_analytics: UA-XXXXX-X
 
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
-  - node_modules
-  - .git
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/alwriterla
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  # - icon:	github
+  #   url:	https://github.com/zephrxx
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
