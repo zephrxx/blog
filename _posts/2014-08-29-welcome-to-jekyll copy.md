@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "今天是个好天气"
+title:  "今天又是个好天气.md"
 date:   2014-08-29 14:34:25
 categories: jekyll update
 tags: featured
