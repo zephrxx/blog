@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: 我的世界观：不可知论，以及你为什么不能从名字上简单理解它
-date: 2014-12-17 14:34:25
+date: 2024-12-29
 categories: 闲聊
 tags:
   - 成长
