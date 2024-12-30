@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 我的世界观：不可知论，以及你为什么不能从名字上简单理解它
 date: 2024-12-29 22:00:00
 categories: 闲聊
