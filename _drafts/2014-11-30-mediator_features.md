@@ -10,7 +10,7 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 # 内核稳定？到底什么是内核
 
 用成长型心态看问题
-
+![[screenshot1.jpg]]
 # 内核是干啥用的
 # 内核存在的意义
 ## 价值观

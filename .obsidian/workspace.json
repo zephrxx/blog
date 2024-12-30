@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "4f9c970b2997aaee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d97090656c1039b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e23307c2581c6a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2014-11-30-mediator_features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2014-11-30-mediator_features"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dad490467509a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec089002eb78090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b0fc4a2a4b0336d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa2b95f2f3f13340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc4e21ec1e879aae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e40a6d9ed0a1a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37c4bf34a39d7a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94dab23c11bbb018",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2014-11-30-mediator_features.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2014-11-30-mediator_features"
+            }
+          },
+          {
+            "id": "9ed975c3b1b2aea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2014-11-30-mediator_features.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2014-11-30-mediator_features"
+            }
+          },
+          {
+            "id": "a094dc7f0f5806dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99e36cf4cff1ab9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2014-11-30-mediator_features.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2014-11-30-mediator_features"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e23307c2581c6a93",
+  "lastOpenFiles": [
+    "_posts/2024-12-26-.md",
+    "_posts/Untitled.md",
+    "_posts/2014-08-29-welcome-to-jekyll copy.md",
+    "_posts/2014-08-29-welcome-to-jekyll.md"
+  ]
+}
