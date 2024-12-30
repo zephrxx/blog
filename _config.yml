@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Mind Defy"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  A blog about life, love, and the pursuit of meaning.
 
 email: mindefy@gmail.com
 #blog logo
