@@ -9,6 +9,8 @@ image: /assets/article_images/2024-12-29-my-agnosticism-world-view/14stirone-iny
 image2: /assets/article_images/2024-12-29-my-agnosticism-world-view/14stirone-inyt-superJumbo-v2.webp
 ---
 
+探索我独特的世界观形成过程，揭示为何选择不可知论而非唯物论或唯心论。本文将带你深入了解不可知论的核心思想及我为什么选择这个理论。
+
 ## 我为什么要写这篇文章？
 
 世界观是我作为一个独立个体的思想核心之一，是上层认知的基础。而我有我独特的世界观形成过程，这个过程是有必要写出来的。唯有写出来，才可以审视和修改，进而发现和解决其中的问题。
