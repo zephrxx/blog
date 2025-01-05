@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 新闻：今日黑科技 - 2025年1月3日
+title: 新闻：今日黑科技 - 2025年01月03日
 date: 2025-01-03 23:31:05
 categories: 新闻
 post-reading-time: 2

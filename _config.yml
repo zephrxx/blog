@@ -6,9 +6,9 @@ plugins:
 # Site settings
 title: "Mind Defy"
 description: > # this means to ignore newlines until "email:"
-  最新科技新闻 | 职场老鸟的技术博客 | AI与互联网 | 产品设计运营
+  最新科技新闻 | 老程序员的技术博客 | AI与互联网 | 产品设计运营
 
-email: mindefy@gmail.com
+email: zephrx@gmail.com
 #blog logo
 logo: "/assets/images/favicon.png"
 logo_round: "/assets/images/logo_round.png"
