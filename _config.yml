@@ -1,23 +1,24 @@
 # Build settings
-gems:
-  - jemoji
+plugins:
+  #- jemoji
   - jekyll-paginate
 
 # Site settings
 title: "Mind Defy"
 description: > # this means to ignore newlines until "email:"
-  A blog about life, love, and the pursuit of meaning.
+  最新科技新闻 | 职场老鸟的技术博客 | AI与互联网 | 产品设计运营
 
 email: mindefy@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/favicon.png"
+logo_round: "/assets/images/logo_round.png"
 float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/ivan-cheremisin-kGateLmNDYw-unsplash.jpg"
 
 name: '勒西'
-author: 'Lexi'
+author: '勒西'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5

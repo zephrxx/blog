@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 我的世界观：不可知论，以及你为什么不能从名字上简单理解它
+title: 观点：不可知论，以及你为什么不能从名字上简单理解它
 date: 2024-12-29 22:00:00
-categories: 闲聊
+categories: 观点
 tags:
   - 成长
 image: /assets/article_images/2024-12-29-my-agnosticism-world-view/14stirone-inyt-superJumbo-v2.webp

@@ -10,8 +10,8 @@
 
 $rs: 16px
 
-$font-serif: "PingFang SC", BlinkMacSystemFont, "Helvetica Neue", -apple-system, "Microsoft YaHei", sans-serif
-$font-sans: "PingFang SC", BlinkMacSystemFont, "Helvetica Neue", -apple-system, "Microsoft YaHei", sans-serif
+$font-serif: -apple-system, BlinkMacSystemFont, Aptos, Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+$font-sans: -apple-system, BlinkMacSystemFont, Aptos, Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 
 
 @mixin respond-to($breakpoint)
@@ -39,6 +39,9 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
+strong
+  font-weight: 550
+
 .logo-readium
   position: fixed
   left: 10px
@@ -51,10 +54,10 @@ body
   .logo
     display: block
     position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    top: 0
+    left: 0
+    width: $rs*3
+    height: $rs*3
     background-size: cover
     background-repeat: no-repeat
 
@@ -109,7 +112,7 @@ body
     outline: 0
     line-height: 50px
     word-break: break-word
-    color: #333
+    color: #444
   .blog-description
     margin: 0 0 20px
     padding: 0 $rs*2
@@ -141,25 +144,25 @@ body
     &:last-child
       border-bottom: 0px
     .post-title
-      letter-spacing: -0.02em
-      font-weight: 700
+      letter-spacing: -0.01em
+      font-weight: 600
       font-style: normal
       display: block
       font-size: 28px
-      line-height: 1.1
+      line-height: 1.2
       margin: 0 0
       a
         text-decoration: none
-        color: #333332
+        color: #333
         &:hover
           text-decoration: none
     .post-excerpt
-      letter-spacing: -0.02em
-      font-weight: 300
+      letter-spacing: -0.01em
+      font-weight: 400
       font-style: normal
       font-size: 20px
       line-height: 1.3
-      color: #666665
+      color: #666666
     .post-meta
       font-size: 14px
       color: #b3b3b1
@@ -234,7 +237,7 @@ body
 .post
   .article-image
     position: absolute
-    background-color: #000
+    background-color: #333
     top: 0
     left: 0
     right: 0
@@ -366,7 +369,7 @@ body
       color: #223040
     h3, h4, h5, h6
       letter-spacing: -0.02em
-      font-weight: 700
+      font-weight: 500
       font-style: normal
       font-size: 24px
       line-height: 1.3
@@ -375,14 +378,14 @@ body
       margin-bottom: 12px
     h2, h1
       letter-spacing: -0.02em
-      font-weight: 700
+      font-weight: 600
       font-style: normal
       font-size: 28px
       line-height: 1.2
       padding-top: 31px
       margin-bottom: 18px
     p
-      font-weight: 400
+      font-weight: 420
       font-style: normal
       font-size: 20px
       line-height: 30px
@@ -411,7 +414,7 @@ body
       border: 0
       padding: 0
       display: block
-      width: 15%
+      width: 85%
       margin: 30px auto
       border: 0px solid #ddd
       border-top: 1px solid #ddd
