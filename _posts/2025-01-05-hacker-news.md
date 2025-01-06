@@ -56,7 +56,7 @@ NAT穿透是通过**UDP协议**和**STUN服务器**等技术，帮助设备在NA
 
 ---
 
-## <a name="4"></a> 4. 我靠一个黄色笑话赚了10万美元 
+## 4. 我靠一个黄色笑话赚了10万美元 
 <small>🔗 [imgur.com](https://imgur.com/gallery/KZ4u3c4): I made $100K from a dick joke</small>
 
 
