@@ -21,7 +21,7 @@ name: '勒西'
 author: '勒西'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	20
 
 url: "http://mindefy.net" # the base hostname & protocol for your site
 baseurl: ""
