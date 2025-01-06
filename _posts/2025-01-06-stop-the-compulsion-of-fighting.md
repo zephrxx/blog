@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 观点：如何抑制争斗的冲动
-date: 2024-12-29 22:00:00
+date: 2025-01-06 12:00:00
 categories: 观点
 tags:
   - 成长
