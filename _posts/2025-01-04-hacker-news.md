@@ -17,7 +17,7 @@ tags:
 具体内容您往下读...
 
 
-![](/assets/hacker_news.jpg)
+![](/assets/images/hacker_news.jpg)
 
 
 ## 1. 如何在视频游戏中绘制轮廓 

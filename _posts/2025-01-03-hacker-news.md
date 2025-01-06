@@ -12,7 +12,7 @@ tags:
 * LLM能否通过反复要求“写更好的代码”来生成更优代码？;
 * F-Droid 伪造签名漏洞验证;
 
-![](/assets/hacker_news.jpg)
+![](/assets/images/hacker_news.jpg)
 
 
 ## 1. Can LLMs write better code if you keep asking them to “write better code”? [↗](https://minimaxir.com/2025/01/write-better-code/)

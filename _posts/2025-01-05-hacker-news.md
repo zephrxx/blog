@@ -17,7 +17,7 @@ tags:
 具体内容您往下读...
 
 
-![](/assets/hacker_news.jpg)
+![](/assets/images/hacker_news.jpg)
 
 
 ## 1. 一个混乱的实验改变了我对AI代码分析的看法 
