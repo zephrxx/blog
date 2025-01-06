@@ -17,7 +17,7 @@ tags:
 具体内容您往下读...
 
 
-![](/assets/hacker_news.jpg)
+![](/assets/images/hacker_news.jpg)
 
 
 ## 1. 时间序列异常检测：十年回顾 
