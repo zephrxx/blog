@@ -11,6 +11,8 @@ image2: /assets/article_images/2024-12-29-my-agnosticism-world-view/14stirone-in
 
 探索一个人独特的世界观形成过程，揭示为何选择不可知论而非唯物论或唯心论。世界观是一个人强大内核的重要组成部分。
 
+![](/assets/article_images/2024-12-29-my-agnosticism-world-view/orly-book-cover-agnostic.png)
+
 ## 你为什么要读这篇文章？
 
 世界观是每个独立个体思想核心的重要组成部分，也是所有高层次认知的基础。本文将记录并揭示我个人世界观的形成过程。通过书写，不仅可以供你审视和参考，还能帮助发现其中的问题与不足。

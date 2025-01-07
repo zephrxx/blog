@@ -14,10 +14,10 @@ tags:
 1. 妹妹用ChatGPT做作业让人心碎；
 1. 所有时钟都慢了30秒；
 
-具体内容您往下读...
+以上是前5条精选。总共20条，具体内容您往下读...
 
 
-![](/assets/hacker_news.jpg)
+![](/assets/images/hacker_news.jpg)
 
 
 ## 1. htmx的未来 

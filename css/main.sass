@@ -45,6 +45,7 @@ strong
 small
   color: #999
   font-style: italic
+  font-weight: 300
 
 .logo-readium
   position: fixed
@@ -403,6 +404,7 @@ small
     img
       max-width: 100%
       margin: 0 auto
+      display: block
     figure
       margin: 0
       padding: 0 0 30px
@@ -423,20 +425,26 @@ small
       margin: 30px auto
       border: 0px solid #ddd
       border-top: 1px solid #ddd
+    a
+      transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1)
+      color: #333
+      border-bottom: 1px solid #d82d1d
+      text-decoration: none
     blockquote
       margin: 0 0 30px
-      margin-left: -26px
-      border-left: 3px solid #57ad68
+      margin-left: 16px
+      border-left: 2px solid #d82d1d
       background:rgb(225, 225, 225)
       padding-left: 20px
       p
         letter-spacing: 0.01rem
         font-weight: 400
-        font-style: italic
-        mborder-left: 3px solid #57ad68
+        font-style: normal
+        mborder-left: 3px solid #d82d1d
         mpadding-left: 20px
         mmargin-left: -26px
         padding-bottom: 3px
+        color: #666
     ul, ol
       padding: 0 0 30px
       margin: 0
@@ -444,7 +452,7 @@ small
       padding: 0
       font-weight: 400
       font-style: normal
-      font-size: 23px
+      font-size: 20px
       line-height: 30px
       margin-left: 30px
       margin-bottom: 12px
