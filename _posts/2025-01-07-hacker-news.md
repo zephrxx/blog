@@ -22,7 +22,7 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 结束第三方事实核查计划，转向社区笔记模式 
+## <a name="1"></a>1. Meta结束第三方事实核查计划，转向社区笔记模式 
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/): Ending our third party fact-checking program and moving to Community Notes model</small>
 
 
