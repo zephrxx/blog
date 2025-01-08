@@ -19,7 +19,7 @@ tags:
 总共20条，具体内容您往下读...
 
 
-![](/assets/hacker_news.jpg)
+![](/assets/images/hacker_news.jpg)
 
 
 ## <a name="1"></a>1. 结束第三方事实核查计划，转向社区笔记模式 
