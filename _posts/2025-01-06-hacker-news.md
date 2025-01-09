@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技日报 - 2025年01月06日
-date: 2025-01-09 15:19:51
+date: 2025-01-06 15:19:51
 categories: 新闻
 tags:
   - hacker_news
