@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 18:33:09
+date: 2025-01-08 19:33:09
 categories: 新闻
 tags:
   - hacker_news
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [dmarcchecker.app](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key): Cracking a 512-bit DKIM key for less than $8 in the cloud</small>
 
 
-|🔥: 584 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
+|🔥: 594 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
 
 
-|🔥: 380 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
+|🔥: 447 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
 
 
-|🔥: 364 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
+|🔥: 390 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
 
 
-|🔥: 362 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
+|🔥: 368 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -74,7 +74,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 <small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
 
 
-|🔥: 231 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
+|🔥: 236 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -82,7 +82,31 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="6"></a>6. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
+## <a name="6"></a>6. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
+<small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce will hire no more software engineers in 2025, says Marc Benioff</small>
+
+
+|🔥: 220 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
+
+
+<br />
+Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力，公司2025年将不再招聘软件工程师。他表示，**Agentforce**（公司旗舰AI产品）是当前的核心，AI已使工程团队生产力提升**30%**。未来，公司将减少支持工程师，增加销售人员以推广AI价值。尽管公司规模可能扩大，但员工对裁员仍存担忧。
+
+---
+
+## <a name="7"></a>7. 老去的程序员 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
+
+
+|🔥: 210 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
+
+
+<br />
+**程序员**随着年龄增长，面临**技术更新**和**职业发展**的挑战。文章探讨了如何在快速变化的行业中保持竞争力，并强调了**持续学习**的重要性。
+
+---
+
+## <a name="8"></a>8. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
 
 
@@ -94,35 +118,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="7"></a>7. 老去的程序员 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
-
-
-|🔥: 208 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
-
-
-<br />
-**程序员**随着年龄增长，面临**技术更新**和**职业发展**的挑战。文章探讨了如何在快速变化的行业中保持竞争力，并强调了**持续学习**的重要性。
-
----
-
-## <a name="8"></a>8. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
-<small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
-
-
-|🔥: 189 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
-
-
-<br />
-密歇根大学推出的**ROB 101**课程是一门面向大一新生的计算线性代数课程，旨在通过**机器人**和智能系统的应用，将数学理论与计算工具结合。课程使用**Julia编程语言**，涵盖线性方程组、矩阵、回归等核心内容，并通过项目实践帮助学生理解工程中的数学应用。课程采用混合教学模式，学生可选择在线或线下学习，强调**计算与数学**在工程中的重要性。
-
----
-
 ## <a name="9"></a>9. 将SerenityOS移植到真实硬件，逐步开发驱动 
 <small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
 
 
-|🔥: 188 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
+|🔥: 197 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -130,23 +130,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="10"></a>10. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
-<small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce will hire no more software engineers in 2025, says Marc Benioff</small>
-
-
-|🔥: 187 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
-
-
-<br />
-Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力，公司2025年将不再招聘软件工程师。他表示，**Agentforce**（公司旗舰AI产品）是当前的核心，AI已使工程团队生产力提升**30%**。未来，公司将减少支持工程师，增加销售人员以推广AI价值。尽管公司规模可能扩大，但员工对裁员仍存担忧。
-
----
-
-## <a name="11"></a>11. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
+## <a name="10"></a>10. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
 
 
-|🔥: 172 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+|🔥: 194 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -154,11 +142,23 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
+## <a name="11"></a>11. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
+<small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
+
+
+|🔥: 193 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+
+
+<br />
+密歇根大学推出的**ROB 101**课程是一门面向大一新生的计算线性代数课程，旨在通过**机器人**和智能系统的应用，将数学理论与计算工具结合。课程使用**Julia编程语言**，涵盖线性方程组、矩阵、回归等核心内容，并通过项目实践帮助学生理解工程中的数学应用。课程采用混合教学模式，学生可选择在线或线下学习，强调**计算与数学**在工程中的重要性。
+
+---
+
 ## <a name="12"></a>12. 你不必支付Microsoft 365的涨价费用 
 <small>🔗 [consumer.org.nz](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase): You don't have to pay the Microsoft 365 price increase</small>
 
 
-|🔥: 146 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
+|🔥: 185 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -166,27 +166,27 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="13"></a>13. 一些编程语言的想法 
-<small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some programming language ideas</small>
-
-
-|🔥: 99 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
-
-
-<br />
-作者认为编程语言的发展似乎停滞不前，主要是在现有概念上进行调整，而非创新。他提出了一些未完全成形的想法，如**松散函数调用**、**能力系统**、**生产级发布支持**等，旨在激发更多讨论。这些想法虽未完全成熟，但可能为未来语言设计提供新方向。
-
----
-
-## <a name="14"></a>14. Ubuntu Linux 核心贡献者 Steve Langasek 去世 
+## <a name="13"></a>13. Ubuntu Linux 核心贡献者 Steve Langasek 去世 
 <small>🔗 [thenewstack.io](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/): Steve Langasek, one of Ubuntu Linux's leading lights, has died</small>
 
 
-|🔥: 92 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
+|🔥: 109 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
 
 
 <br />
 **Steve Langasek** 是 **Ubuntu Linux** 社区的重要成员，他的离世对开源社区造成了巨大损失。他长期致力于推动 Linux 系统的发展，尤其在 **Debian** 和 **Ubuntu** 项目中贡献卓著。
+
+---
+
+## <a name="14"></a>14. 一些编程语言的想法 
+<small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some programming language ideas</small>
+
+
+|🔥: 104 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
+
+
+<br />
+作者认为编程语言的发展似乎停滞不前，主要是在现有概念上进行调整，而非创新。他提出了一些未完全成形的想法，如**松散函数调用**、**能力系统**、**生产级发布支持**等，旨在激发更多讨论。这些想法虽未完全成熟，但可能为未来语言设计提供新方向。
 
 ---
 
@@ -214,7 +214,19 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="17"></a>17. Stack Overflow 新问题数量较 2022 年下降 77% 
+## <a name="17"></a>17. 28小时日制：第一年更新 
+<small>🔗 [sidhion.com](https://sidhion.com/blog/28h_days_update_1/): 28h Days: year 1 update</small>
+
+
+|🔥: 72 \| 💬: [↗](https://news.ycombinator.com/item?id=42639779) \| 🗓️ 2025-01-08
+
+
+<br />
+作者从2024年开始尝试**28小时日制**，经过一年的适应，认为这是对健康第二有益的改变，仅次于规律锻炼。适应过程中，**小睡**成为关键，帮助调整作息。尽管与24小时制的人互动时有不便，但作者享受到了更多自由和高效的生活节奏，**睡眠质量**显著提升，锻炼也更规律。未来将继续探索这一生活方式的长期影响。
+
+---
+
+## <a name="18"></a>18. Stack Overflow 新问题数量较 2022 年下降 77% 
 <small>🔗 [gist.github.com](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132): New questions on Stack Overflow are down 77% compared to 2022</small>
 
 
@@ -226,7 +238,7 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="18"></a>18. 在Meta工作一周后被解雇：我挖到的所有内幕 
+## <a name="19"></a>19. 在Meta工作一周后被解雇：我挖到的所有内幕 
 <small>🔗 [sebastiancarlos.com](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65): Fired from Meta After 1 Week: Here's All the Dirt I Got</small>
 
 
@@ -238,23 +250,11 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="19"></a>19. 德国人转向阳台太阳能板以节省开支 
-<small>🔗 [france24.com](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money): Germans turn to balcony solar panels to save money</small>
-
-
-|🔥: 62 \| 💬: [↗](https://news.ycombinator.com/item?id=42633159) \| 🗓️ 2025-01-08
-
-
-<br />
-在能源成本高涨的背景下，**阳台太阳能板**在德国迅速普及。2024年，德国安装了超过80万套阳台太阳能设备，较前一年翻倍。这些设备价格低廉、安装简便，且无需注册，尤其受到公寓住户的欢迎。尽管发电量有限，但阳台太阳能板帮助家庭节省了部分电费，并推动了**可再生能源**的普及。政府补贴和简化法规进一步促进了这一趋势。
-
----
-
 ## <a name="20"></a>20. 巴沙撒的时钟：夜光时钟 
 <small>🔗 [blog.karliner.net](https://blog.karliner.net/projects/belshazzars-clock/): Show HN: Belshazzar's Clock, luminous paint night clock</small>
 
 
-|🔥: 61 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
+|🔥: 63 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
 
 
 <br />
