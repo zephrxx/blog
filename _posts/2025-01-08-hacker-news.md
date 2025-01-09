@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 17:33:08
+date: 2025-01-08 18:33:09
 categories: 新闻
 tags:
   - hacker_news
@@ -9,9 +9,9 @@ tags:
 
 
 1. 在云端以不到8美元破解512位DKIM密钥；[🔗](hacker_news.md#1)
-1. Fidget：大规模数学表达式库；[🔗](hacker_news.md#2)
+1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker_news.md#2)
 1. NeuralSVG：一种用于文本到矢量生成的隐式表示；[🔗](hacker_news.md#3)
-1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker_news.md#4)
+1. Fidget：大规模数学表达式库；[🔗](hacker_news.md#4)
 1. Facebook 删除色情广告相关报道；[🔗](hacker_news.md#5)
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [dmarcchecker.app](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key): Cracking a 512-bit DKIM key for less than $8 in the cloud</small>
 
 
-|🔥: 568 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
+|🔥: 584 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -34,35 +34,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Fidget：大规模数学表达式库 
-<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
-
-
-|🔥: 355 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
-
-
-<br />
-Fidget 是一个用于表示、编译和评估大规模数学表达式的库，特别适用于**隐式曲面**的计算。它支持并行计算和优化，能够通过**区间算术**和**JIT编译**提升性能。Fidget 还提供了多种算法和演示应用，适合用于3D渲染和建模。
-
----
-
-## <a name="3"></a>3. NeuralSVG：一种用于文本到矢量生成的隐式表示 
-<small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
-
-
-|🔥: 337 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
-
-
-<br />
-矢量图形在设计中的重要性不言而喻，但现有方法常因**过度参数化**或忽视**分层结构**而受限。本文提出**NeuralSVG**，一种基于隐式神经表示的文本到矢量图形生成方法，通过小规模MLP网络编码场景，并结合**Score Distillation Sampling**优化。NeuralSVG不仅生成结构化SVG，还支持推理时动态调整，显著优于现有方法。
-
----
-
-## <a name="4"></a>4. 我不得不撤下我的课程交换网站，否则将被开除 
+## <a name="2"></a>2. 我不得不撤下我的课程交换网站，否则将被开除 
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
 
 
-|🔥: 301 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
+|🔥: 380 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -70,11 +46,35 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
+## <a name="3"></a>3. NeuralSVG：一种用于文本到矢量生成的隐式表示 
+<small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
+
+
+|🔥: 364 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
+
+
+<br />
+矢量图形在设计中的重要性不言而喻，但现有方法常因**过度参数化**或忽视**分层结构**而受限。本文提出**NeuralSVG**，一种基于隐式神经表示的文本到矢量图形生成方法，通过小规模MLP网络编码场景，并结合**Score Distillation Sampling**优化。NeuralSVG不仅生成结构化SVG，还支持推理时动态调整，显著优于现有方法。
+
+---
+
+## <a name="4"></a>4. Fidget：大规模数学表达式库 
+<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
+
+
+|🔥: 362 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
+
+
+<br />
+Fidget 是一个用于表示、编译和评估大规模数学表达式的库，特别适用于**隐式曲面**的计算。它支持并行计算和优化，能够通过**区间算术**和**JIT编译**提升性能。Fidget 还提供了多种算法和演示应用，适合用于3D渲染和建模。
+
+---
+
 ## <a name="5"></a>5. Facebook 删除色情广告相关报道 
 <small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
 
 
-|🔥: 217 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
+|🔥: 231 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -98,7 +98,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
 
 
-|🔥: 205 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
+|🔥: 208 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -106,23 +106,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="8"></a>8. 将SerenityOS移植到真实硬件，逐步开发驱动 
-<small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
-
-
-|🔥: 182 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
-
-
-<br />
-作者通过购买一台Dell Chromebook 3100，尝试将**SerenityOS**移植到真实硬件。过程中遇到**Cr50调试芯片**无法正常工作的问题，最终通过硬件调试和软件修改，成功实现了系统的初步运行。
-
----
-
-## <a name="9"></a>9. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
+## <a name="8"></a>8. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
 <small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
 
 
-|🔥: 181 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+|🔥: 189 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -130,23 +118,23 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="10"></a>10. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
+## <a name="9"></a>9. 将SerenityOS移植到真实硬件，逐步开发驱动 
+<small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
 
 
-|🔥: 169 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+|🔥: 188 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
 
 
 <br />
-洛杉矶县多起大规模山火失控，**7万人被迫撤离**，**40万居民断电**，水压不足导致灭火困难。**NASA喷气推进实验室（JPL）紧急关闭**，部分员工家园被毁。加州州长宣布进入紧急状态，国民警卫队和数千名消防员投入灭火。NASA已制定备用计划，以防JPL受损。
+作者通过购买一台Dell Chromebook 3100，尝试将**SerenityOS**移植到真实硬件。过程中遇到**Cr50调试芯片**无法正常工作的问题，最终通过硬件调试和软件修改，成功实现了系统的初步运行。
 
 ---
 
-## <a name="11"></a>11. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
+## <a name="10"></a>10. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
 <small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce will hire no more software engineers in 2025, says Marc Benioff</small>
 
 
-|🔥: 152 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
+|🔥: 187 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -154,8 +142,32 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="12"></a>12. 一些编程语言的想法 
-<small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some Programming Language Ideas</small>
+## <a name="11"></a>11. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
+
+
+|🔥: 172 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+
+
+<br />
+洛杉矶县多起大规模山火失控，**7万人被迫撤离**，**40万居民断电**，水压不足导致灭火困难。**NASA喷气推进实验室（JPL）紧急关闭**，部分员工家园被毁。加州州长宣布进入紧急状态，国民警卫队和数千名消防员投入灭火。NASA已制定备用计划，以防JPL受损。
+
+---
+
+## <a name="12"></a>12. 你不必支付Microsoft 365的涨价费用 
+<small>🔗 [consumer.org.nz](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase): You don't have to pay the Microsoft 365 price increase</small>
+
+
+|🔥: 146 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
+
+
+<br />
+2024年11月29日起，Microsoft 365将涨价，但用户**不必支付额外费用**。通过**提前续订**或选择**替代方案**，可以避免价格上涨的影响。
+
+---
+
+## <a name="13"></a>13. 一些编程语言的想法 
+<small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some programming language ideas</small>
 
 
 |🔥: 99 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
@@ -166,7 +178,19 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="13"></a>13. 在Rust中嵌入Scheme 
+## <a name="14"></a>14. Ubuntu Linux 核心贡献者 Steve Langasek 去世 
+<small>🔗 [thenewstack.io](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/): Steve Langasek, one of Ubuntu Linux's leading lights, has died</small>
+
+
+|🔥: 92 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
+
+
+<br />
+**Steve Langasek** 是 **Ubuntu Linux** 社区的重要成员，他的离世对开源社区造成了巨大损失。他长期致力于推动 Linux 系统的发展，尤其在 **Debian** 和 **Ubuntu** 项目中贡献卓著。
+
+---
+
+## <a name="15"></a>15. 在Rust中嵌入Scheme 
 <small>🔗 [raviqqe.com](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/): Embedding Scheme in Rust</small>
 
 
@@ -178,7 +202,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="14"></a>14. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
+## <a name="16"></a>16. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
 <small>🔗 [med.ubc.ca](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/): Spinal cord injuries from mountain biking exceed hockey, other high-risk sports</small>
 
 
@@ -190,19 +214,19 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="15"></a>15. Ubuntu Linux 核心贡献者 Steve Langasek 去世 
-<small>🔗 [thenewstack.io](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/): Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died</small>
+## <a name="17"></a>17. Stack Overflow 新问题数量较 2022 年下降 77% 
+<small>🔗 [gist.github.com](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132): New questions on Stack Overflow are down 77% compared to 2022</small>
 
 
-|🔥: 68 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
+|🔥: 68 \| 💬: [↗](https://news.ycombinator.com/item?id=42633880) \| 🗓️ 2025-01-08
 
 
 <br />
-**Steve Langasek** 是 **Ubuntu Linux** 社区的重要成员，他的离世对开源社区造成了巨大损失。他长期致力于推动 Linux 系统的发展，尤其在 **Debian** 和 **Ubuntu** 项目中贡献卓著。
+Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年 12 月的 25,566 个，**下降了 70.7%**。自 ChatGPT 推出后，问题数量减少了 **76.5%**。网站活跃度大幅下降，**问题关闭率增加**，可能面临生存危机。
 
 ---
 
-## <a name="16"></a>16. 在Meta工作一周后被解雇：我挖到的所有内幕 
+## <a name="18"></a>18. 在Meta工作一周后被解雇：我挖到的所有内幕 
 <small>🔗 [sebastiancarlos.com](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65): Fired from Meta After 1 Week: Here's All the Dirt I Got</small>
 
 
@@ -214,19 +238,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="17"></a>17. Stack Overflow 新问题数量较 2022 年下降 77% 
-<small>🔗 [gist.github.com](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132): New questions on Stack Overflow are down 77% compared to 2022</small>
-
-
-|🔥: 67 \| 💬: [↗](https://news.ycombinator.com/item?id=42633880) \| 🗓️ 2025-01-08
-
-
-<br />
-Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年 12 月的 25,566 个，**下降了 70.7%**。自 ChatGPT 推出后，问题数量减少了 **76.5%**。网站活跃度大幅下降，**问题关闭率增加**，可能面临生存危机。
-
----
-
-## <a name="18"></a>18. 德国人转向阳台太阳能板以节省开支 
+## <a name="19"></a>19. 德国人转向阳台太阳能板以节省开支 
 <small>🔗 [france24.com](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money): Germans turn to balcony solar panels to save money</small>
 
 
@@ -238,26 +250,14 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="19"></a>19. 巴沙撒的时钟：夜光时钟 
+## <a name="20"></a>20. 巴沙撒的时钟：夜光时钟 
 <small>🔗 [blog.karliner.net](https://blog.karliner.net/projects/belshazzars-clock/): Show HN: Belshazzar's Clock, luminous paint night clock</small>
 
 
-|🔥: 58 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
+|🔥: 61 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
 
 
 <br />
 作者多年来研究**夜光涂料**与**紫外线LED**，制作了多款大型显示装置。最新版本是一款适合家用的夜光时钟，使用100mm直径的管道涂上夜光涂料，通过**ESP32C3**驱动步进电机和紫外线LED链。时钟通过NTP同步时间，但目前仅显示UTC。作者还尝试了光致变色墨水版本，并计划改进设计。所有资源可在Github获取。
-
----
-
-## <a name="20"></a>20. Linux 路由基础 
-<small>🔗 [blog.sdn.clinic](https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/): Linux Routing Fundamentals</small>
-
-
-|🔥: 51 \| 💬: [↗](https://news.ycombinator.com/item?id=42632671) \| 🗓️ 2025-01-08
-
-
-<br />
-Linux 系统默认支持多种路由表，包括 **local**、**main** 和 **default** 表，用于处理网络包的转发。路由表通过**最长前缀匹配**（Longest Prefix Match）决定数据包的转发路径。Linux 还支持**策略路由**（PBR）和**网络命名空间**（NetNS）等高级功能，适用于复杂的网络场景。
 
 ---
