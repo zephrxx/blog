@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 16:33:10
+date: 2025-01-08 17:33:08
 categories: 新闻
 tags:
   - hacker_news
@@ -12,7 +12,7 @@ tags:
 1. Fidget：大规模数学表达式库；[🔗](hacker_news.md#2)
 1. NeuralSVG：一种用于文本到矢量生成的隐式表示；[🔗](hacker_news.md#3)
 1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker_news.md#4)
-1. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外；[🔗](hacker_news.md#5)
+1. Facebook 删除色情广告相关报道；[🔗](hacker_news.md#5)
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [dmarcchecker.app](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key): Cracking a 512-bit DKIM key for less than $8 in the cloud</small>
 
 
-|🔥: 553 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
+|🔥: 568 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
 
 
-|🔥: 342 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
+|🔥: 355 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -50,7 +50,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 <small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
 
 
-|🔥: 305 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
+|🔥: 337 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -62,7 +62,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
 
 
-|🔥: 214 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
+|🔥: 301 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -70,35 +70,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="5"></a>5. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
-
-
-|🔥: 209 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
-
-
-<br />
-联想宣布推出首款预装**SteamOS**的**Legion Go S**掌机，标志着SteamOS正式进入非Valve设备。该设备将提供**Windows 11**和**SteamOS**两个版本，后者起售价更低。Valve表示将发布SteamOS测试版，未来还将支持更多设备，可能对Windows游戏市场构成挑战。
-
----
-
-## <a name="6"></a>6. 老去的程序员 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
-
-
-|🔥: 203 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
-
-
-<br />
-**程序员**随着年龄增长，面临**技术更新**和**职业发展**的挑战。文章探讨了如何在快速变化的行业中保持竞争力，并强调了**持续学习**的重要性。
-
----
-
-## <a name="7"></a>7. Facebook 删除色情广告相关报道 
+## <a name="5"></a>5. Facebook 删除色情广告相关报道 
 <small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
 
 
-|🔥: 200 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
+|🔥: 217 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -106,23 +82,35 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="8"></a>8. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
-<small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
+## <a name="6"></a>6. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
 
 
-|🔥: 174 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+|🔥: 210 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
 
 
 <br />
-密歇根大学推出的**ROB 101**课程是一门面向大一新生的计算线性代数课程，旨在通过**机器人**和智能系统的应用，将数学理论与计算工具结合。课程使用**Julia编程语言**，涵盖线性方程组、矩阵、回归等核心内容，并通过项目实践帮助学生理解工程中的数学应用。课程采用混合教学模式，学生可选择在线或线下学习，强调**计算与数学**在工程中的重要性。
+联想宣布推出首款预装**SteamOS**的**Legion Go S**掌机，标志着SteamOS正式进入非Valve设备。该设备将提供**Windows 11**和**SteamOS**两个版本，后者起售价更低。Valve表示将发布SteamOS测试版，未来还将支持更多设备，可能对Windows游戏市场构成挑战。
 
 ---
 
-## <a name="9"></a>9. 将SerenityOS移植到真实硬件，逐步开发驱动 
+## <a name="7"></a>7. 老去的程序员 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
+
+
+|🔥: 205 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
+
+
+<br />
+**程序员**随着年龄增长，面临**技术更新**和**职业发展**的挑战。文章探讨了如何在快速变化的行业中保持竞争力，并强调了**持续学习**的重要性。
+
+---
+
+## <a name="8"></a>8. 将SerenityOS移植到真实硬件，逐步开发驱动 
 <small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
 
 
-|🔥: 174 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
+|🔥: 182 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -130,11 +118,23 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
+## <a name="9"></a>9. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
+<small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
+
+
+|🔥: 181 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+
+
+<br />
+密歇根大学推出的**ROB 101**课程是一门面向大一新生的计算线性代数课程，旨在通过**机器人**和智能系统的应用，将数学理论与计算工具结合。课程使用**Julia编程语言**，涵盖线性方程组、矩阵、回归等核心内容，并通过项目实践帮助学生理解工程中的数学应用。课程采用混合教学模式，学生可选择在线或线下学习，强调**计算与数学**在工程中的重要性。
+
+---
+
 ## <a name="10"></a>10. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
 
 
-|🔥: 145 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+|🔥: 169 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -142,11 +142,23 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="11"></a>11. 一些编程语言的想法 
+## <a name="11"></a>11. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
+<small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce will hire no more software engineers in 2025, says Marc Benioff</small>
+
+
+|🔥: 152 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
+
+
+<br />
+Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力，公司2025年将不再招聘软件工程师。他表示，**Agentforce**（公司旗舰AI产品）是当前的核心，AI已使工程团队生产力提升**30%**。未来，公司将减少支持工程师，增加销售人员以推广AI价值。尽管公司规模可能扩大，但员工对裁员仍存担忧。
+
+---
+
+## <a name="12"></a>12. 一些编程语言的想法 
 <small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some Programming Language Ideas</small>
 
 
-|🔥: 98 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
+|🔥: 99 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -154,7 +166,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="12"></a>12. 在Rust中嵌入Scheme 
+## <a name="13"></a>13. 在Rust中嵌入Scheme 
 <small>🔗 [raviqqe.com](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/): Embedding Scheme in Rust</small>
 
 
@@ -166,23 +178,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="13"></a>13. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
-<small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff</small>
-
-
-|🔥: 87 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
-
-
-<br />
-Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力，公司2025年将不再招聘软件工程师。他表示，**Agentforce**（公司旗舰AI产品）是当前的核心，AI已使工程团队生产力提升**30%**。未来，公司将减少支持工程师，增加销售人员以推广AI价值。尽管公司规模可能扩大，但员工对裁员仍存担忧。
-
----
-
 ## <a name="14"></a>14. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
 <small>🔗 [med.ubc.ca](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/): Spinal cord injuries from mountain biking exceed hockey, other high-risk sports</small>
 
 
-|🔥: 86 \| 💬: [↗](https://news.ycombinator.com/item?id=42632878) \| 🗓️ 2025-01-08
+|🔥: 87 \| 💬: [↗](https://news.ycombinator.com/item?id=42632878) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -190,7 +190,19 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="15"></a>15. 在Meta工作一周后被解雇：我挖到的所有内幕 
+## <a name="15"></a>15. Ubuntu Linux 核心贡献者 Steve Langasek 去世 
+<small>🔗 [thenewstack.io](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/): Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died</small>
+
+
+|🔥: 68 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
+
+
+<br />
+**Steve Langasek** 是 **Ubuntu Linux** 社区的重要成员，他的离世对开源社区造成了巨大损失。他长期致力于推动 Linux 系统的发展，尤其在 **Debian** 和 **Ubuntu** 项目中贡献卓著。
+
+---
+
+## <a name="16"></a>16. 在Meta工作一周后被解雇：我挖到的所有内幕 
 <small>🔗 [sebastiancarlos.com](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65): Fired from Meta After 1 Week: Here's All the Dirt I Got</small>
 
 
@@ -202,7 +214,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力�
 
 ---
 
-## <a name="16"></a>16. Stack Overflow 新问题数量较 2022 年下降 77% 
+## <a name="17"></a>17. Stack Overflow 新问题数量较 2022 年下降 77% 
 <small>🔗 [gist.github.com](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132): New questions on Stack Overflow are down 77% compared to 2022</small>
 
 
@@ -214,7 +226,7 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="17"></a>17. 德国人转向阳台太阳能板以节省开支 
+## <a name="18"></a>18. 德国人转向阳台太阳能板以节省开支 
 <small>🔗 [france24.com](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money): Germans turn to balcony solar panels to save money</small>
 
 
@@ -226,11 +238,11 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="18"></a>18. 巴沙撒的时钟：夜光时钟 
+## <a name="19"></a>19. 巴沙撒的时钟：夜光时钟 
 <small>🔗 [blog.karliner.net](https://blog.karliner.net/projects/belshazzars-clock/): Show HN: Belshazzar's Clock, luminous paint night clock</small>
 
 
-|🔥: 56 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
+|🔥: 58 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -238,7 +250,7 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="19"></a>19. Linux 路由基础 
+## <a name="20"></a>20. Linux 路由基础 
 <small>🔗 [blog.sdn.clinic](https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/): Linux Routing Fundamentals</small>
 
 
@@ -247,17 +259,5 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 <br />
 Linux 系统默认支持多种路由表，包括 **local**、**main** 和 **default** 表，用于处理网络包的转发。路由表通过**最长前缀匹配**（Longest Prefix Match）决定数据包的转发路径。Linux 还支持**策略路由**（PBR）和**网络命名空间**（NetNS）等高级功能，适用于复杂的网络场景。
-
----
-
-## <a name="20"></a>20. 白宫推出消费者设备网络安全信任标志计划 
-<small>🔗 [nextgov.com](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/): White House unveils Cyber Trust Mark program for consumer devices</small>
-
-
-|🔥: 48 \| 💬: [↗](https://news.ycombinator.com/item?id=42636675) \| 🗓️ 2025-01-08
-
-
-<br />
-白宫推出了一项针对物联网设备的**网络安全信任标志**计划，旨在帮助消费者选择符合政府认证网络安全标准的产品。该标志类似于能源之星标签，由UL Solutions主导管理，亚马逊和百思买等大公司将协助推广。预计2025年将有带标志的产品上市，联邦政府也将在2027年前采购带此标志的设备。
 
 ---
