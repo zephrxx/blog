@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技日报 - 2025年01月06日
-date: 2025-01-06 14:26:00
+date: 2025-01-09 15:19:51
 categories: 新闻
 tags:
   - hacker_news
@@ -23,10 +23,10 @@ tags:
 
 
 ## <a name="1"></a>1. 如何使用LLM编程 
-<small>🔗 [crawshaw.io](https://crawshaw.io/blog/programming-with-llms): How I program with LLMs</small>
+<small>[crawshaw.io](https://crawshaw.io/blog/programming-with-llms)</small>
 
 
-|🔥: 865 \| 💬: [↗](https://news.ycombinator.com/item?id=42617645) \| 🗓️ 2025-01-06
+| 🔥🔥: 865 | 💬: [322](https://news.ycombinator.com/item?id=42617645) | 🗓️ 2025-01-06
 
 
 <br />
@@ -35,10 +35,10 @@ tags:
 ---
 
 ## <a name="2"></a>2. htmx的未来 
-<small>🔗 [htmx.org](https://htmx.org/essays/future/): The Future of Htmx</small>
+<small>[htmx.org](https://htmx.org/essays/future/)</small>
 
 
-|🔥: 762 \| 💬: [↗](https://news.ycombinator.com/item?id=42613221) \| 🗓️ 2025-01-06
+| 🔥🔥: 762 | 💬: [415](https://news.ycombinator.com/item?id=42613221) | 🗓️ 2025-01-06
 
 
 <br />
@@ -47,10 +47,10 @@ htmx起源于intercooler.js，旨在简化Web开发。其目标是成为像**jQu
 ---
 
 ## <a name="3"></a>3. Nvidia推出“个人AI超级计算机”Project Digits 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/): Nvidia's Project Digits is a 'personal AI supercomputer'</small>
+<small>[techcrunch.com](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)</small>
 
 
-|🔥: 613 \| 💬: [↗](https://news.ycombinator.com/item?id=42619139) \| 🗓️ 2025-01-06
+| 🔥🔥: 613 | 💬: [490](https://news.ycombinator.com/item?id=42619139) | 🗓️ 2025-01-06
 
 
 <br />
@@ -59,10 +59,10 @@ htmx起源于intercooler.js，旨在简化Web开发。其目标是成为像**jQu
 ---
 
 ## <a name="4"></a>4. 用正则表达式实现的极小极大国际象棋引擎 
-<small>🔗 [nicholas.carlini.com](https://nicholas.carlini.com/writing/2025/regex-chess.html): A minimax chess engine in regular expressions</small>
+<small>[nicholas.carlini.com](https://nicholas.carlini.com/writing/2025/regex-chess.html)</small>
 
 
-|🔥: 542 \| 💬: [↗](https://news.ycombinator.com/item?id=42619652) \| 🗓️ 2025-01-06
+| 🔥🔥: 542 | 💬: [97](https://news.ycombinator.com/item?id=42619652) | 🗓️ 2025-01-06
 
 
 <br />
@@ -71,10 +71,10 @@ Nicholas Carlini 开发了一个由 **84,688 个正则表达式** 组成的国�
 ---
 
 ## <a name="5"></a>5. 英伟达发布下一代RTX 5090和RTX 5080显卡 
-<small>🔗 [theverge.com](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date): Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs</small>
+<small>[theverge.com](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)</small>
 
 
-|🔥: 486 \| 💬: [↗](https://news.ycombinator.com/item?id=42618761) \| 🗓️ 2025-01-06
+| 🔥🔥: 486 | 💬: [719](https://news.ycombinator.com/item?id=42618761) | 🗓️ 2025-01-06
 
 
 <br />
@@ -83,10 +83,10 @@ Nicholas Carlini 开发了一个由 **84,688 个正则表达式** 组成的国�
 ---
 
 ## <a name="6"></a>6. Zig的编译时功能非常强大 
-<small>🔗 [scottredig.com](https://www.scottredig.com/blog/bonkers_comptime/): Zig's comptime is bonkers good</small>
+<small>[scottredig.com](https://www.scottredig.com/blog/bonkers_comptime/)</small>
 
 
-|🔥: 452 \| 💬: [↗](https://news.ycombinator.com/item?id=42618130) \| 🗓️ 2025-01-06
+| 🔥🔥: 452 | 💬: [255](https://news.ycombinator.com/item?id=42618130) | 🗓️ 2025-01-06
 
 
 <br />
@@ -95,10 +95,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="7"></a>7. 贾斯廷·特鲁多承诺辞去总理职务 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680): Justin Trudeau promises to resign as PM</small>
+<small>[cbc.ca](https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680)</small>
 
 
-|🔥: 440 \| 💬: [↗](https://news.ycombinator.com/item?id=42611730) \| 🗓️ 2025-01-06
+| 🔥🔥: 440 | 💬: [1154](https://news.ycombinator.com/item?id=42611730) | 🗓️ 2025-01-06
 
 
 <br />
@@ -107,10 +107,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="8"></a>8. 时间序列异常检测：十年回顾 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2412.20512): Time-Series Anomaly Detection: A Decade Review</small>
+<small>[arxiv.org](https://arxiv.org/abs/2412.20512)</small>
 
 
-|🔥: 437 \| 💬: [↗](https://news.ycombinator.com/item?id=42609595) \| 🗓️ 2025-01-06
+| 🔥🔥: 437 | 💬: [79](https://news.ycombinator.com/item?id=42609595) | 🗓️ 2025-01-06
 
 
 <br />
@@ -119,10 +119,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="9"></a>9. 所有时钟都慢了30秒 
-<small>🔗 [victorpoughon.fr](https://victorpoughon.fr/all-clocks-are-30-seconds-late/): All clocks are 30 seconds late</small>
+<small>[victorpoughon.fr](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)</small>
 
 
-|🔥: 365 \| 💬: [↗](https://news.ycombinator.com/item?id=42612842) \| 🗓️ 2025-01-06
+| 🔥🔥: 365 | 💬: [347](https://news.ycombinator.com/item?id=42612842) | 🗓️ 2025-01-06
 
 
 <br />
@@ -131,10 +131,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="10"></a>10. 使用Meta AI后，Instagram用我的脸做定向广告 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/): Used Meta AI, now Instagram is using my face on ads targeted at me</small>
+<small>[old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/)</small>
 
 
-|🔥: 303 \| 💬: [↗](https://news.ycombinator.com/item?id=42615538) \| 🗓️ 2025-01-06
+| 🔥🔥: 303 | 💬: [173](https://news.ycombinator.com/item?id=42615538) | 🗓️ 2025-01-06
 
 
 <br />
@@ -143,10 +143,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="11"></a>11. 我以四分之一世纪为单位生活 
-<small>🔗 [tla.systems](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/): I live my life a quarter century at a time</small>
+<small>[tla.systems](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)</small>
 
 
-|🔥: 297 \| 💬: [↗](https://news.ycombinator.com/item?id=42616699) \| 🗓️ 2025-01-06
+| 🔥🔥: 297 | 💬: [177](https://news.ycombinator.com/item?id=42616699) | 🗓️ 2025-01-06
 
 
 <br />
@@ -155,10 +155,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="12"></a>12. 妹妹用ChatGPT做作业令人心碎 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/): My little sister's use of ChatGPT for homework is heartbreaking</small>
+<small>[old.reddit.com](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)</small>
 
 
-|🔥: 294 \| 💬: [↗](https://news.ycombinator.com/item?id=42611844) \| 🗓️ 2025-01-06
+| 🔥🔥: 294 | 💬: [497](https://news.ycombinator.com/item?id=42611844) | 🗓️ 2025-01-06
 
 
 <br />
@@ -167,10 +167,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="13"></a>13. 三连提案 
-<small>🔗 [alexanderpetros.com](https://alexanderpetros.com/triptych/): Triptych Proposals</small>
+<small>[alexanderpetros.com](https://alexanderpetros.com/triptych/)</small>
 
 
-|🔥: 244 \| 💬: [↗](https://news.ycombinator.com/item?id=42615646) \| 🗓️ 2025-01-06
+| 🔥🔥: 244 | 💬: [79](https://news.ycombinator.com/item?id=42615646) | 🗓️ 2025-01-06
 
 
 <br />
@@ -179,10 +179,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="14"></a>14. 结构化代码编辑器的演变 
-<small>🔗 [crowdhailer.me](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/): The evolution of a structural code editor</small>
+<small>[crowdhailer.me](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)</small>
 
 
-|🔥: 238 \| 💬: [↗](https://news.ycombinator.com/item?id=42608923) \| 🗓️ 2025-01-06
+| 🔥🔥: 238 | 💬: [109](https://news.ycombinator.com/item?id=42608923) | 🗓️ 2025-01-06
 
 
 <br />
@@ -191,10 +191,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="15"></a>15. 美国东部山脊线秋季自行车冒险 
-<small>🔗 [crazyguyonabike.com](https://www.crazyguyonabike.com/doc/?doc_id=26078): An autumn bike adventure down the US portion of the Eastern Divide Trail</small>
+<small>[crazyguyonabike.com](https://www.crazyguyonabike.com/doc/?doc_id=26078)</small>
 
 
-|🔥: 211 \| 💬: [↗](https://news.ycombinator.com/item?id=42613878) \| 🗓️ 2025-01-06
+| 🔥🔥: 211 | 💬: [71](https://news.ycombinator.com/item?id=42613878) | 🗓️ 2025-01-06
 
 
 <br />
@@ -203,10 +203,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="16"></a>16. 罗马帝国使用铅导致欧洲智商下降，研究发现 
-<small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds): Roman Empire's use of lead lowered IQ levels across Europe, study finds</small>
+<small>[theguardian.com](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)</small>
 
 
-|🔥: 206 \| 💬: [↗](https://news.ycombinator.com/item?id=42618625) \| 🗓️ 2025-01-06
+| 🔥🔥: 206 | 💬: [165](https://news.ycombinator.com/item?id=42618625) | 🗓️ 2025-01-06
 
 
 <br />
@@ -215,10 +215,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="17"></a>17. 软件正在吞噬世界，没错（2024） 
-<small>🔗 [medium.com](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623): Software is eating the world, all right (2024)</small>
+<small>[medium.com](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)</small>
 
 
-|🔥: 181 \| 💬: [↗](https://news.ycombinator.com/item?id=42613550) \| 🗓️ 2025-01-06
+| 🔥🔥: 181 | 💬: [130](https://news.ycombinator.com/item?id=42613550) | 🗓️ 2025-01-06
 
 
 <br />
@@ -227,10 +227,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="18"></a>18. 样条距离场 
-<small>🔗 [zone.dog](https://zone.dog/braindump/spline_fields/): Spline Distance Fields</small>
+<small>[zone.dog](https://zone.dog/braindump/spline_fields/)</small>
 
 
-|🔥: 178 \| 💬: [↗](https://news.ycombinator.com/item?id=42611540) \| 🗓️ 2025-01-06
+| 🔥🔥: 178 | 💬: [27](https://news.ycombinator.com/item?id=42611540) | 🗓️ 2025-01-06
 
 
 <br />
@@ -239,10 +239,10 @@ Zig的**comptime**功能允许在编译时执行代码，极大地简化了元�
 ---
 
 ## <a name="19"></a>19. 自托管表单后端——Formspree的开源替代方案 
-<small>🔗 [github.com](https://github.com/FormBee/FormBee): Self-Hostable Form Back End – OSS Alternative to Formspree</small>
+<small>[github.com](https://github.com/FormBee/FormBee)</small>
 
 
-|🔥: 174 \| 💬: [↗](https://news.ycombinator.com/item?id=42614316) \| 🗓️ 2025-01-06
+| 🔥🔥: 174 | 💬: [36](https://news.ycombinator.com/item?id=42614316) | 🗓️ 2025-01-06
 
 
 <br />
@@ -251,10 +251,10 @@ FormBee 是一个**开源表单后端**，专为注重数据隐私的开发者�
 ---
 
 ## <a name="20"></a>20. C: 简单易用的延迟执行功能 
-<small>🔗 [gustedt.wordpress.com](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/): C: Simple Defer, Ready to Use</small>
+<small>[gustedt.wordpress.com](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)</small>
 
 
-|🔥: 173 \| 💬: [↗](https://news.ycombinator.com/item?id=42613671) \| 🗓️ 2025-01-06
+| 🔥🔥: 173 | 💬: [151](https://news.ycombinator.com/item?id=42613671) | 🗓️ 2025-01-06
 
 
 <br />
@@ -263,10 +263,10 @@ FormBee 是一个**开源表单后端**，专为注重数据隐私的开发者�
 ---
 
 ## <a name="21"></a>21. 大语言模型与代码优化 
-<small>🔗 [wiredream.com](https://wiredream.com/llm-optimizing-digit-diff/): LLMs and Code Optimization</small>
+<small>[wiredream.com](https://wiredream.com/llm-optimizing-digit-diff/)</small>
 
 
-|🔥: 168 \| 💬: [↗](https://news.ycombinator.com/item?id=42610234) \| 🗓️ 2025-01-06
+| 🔥🔥: 168 | 💬: [25](https://news.ycombinator.com/item?id=42610234) | 🗓️ 2025-01-06
 
 
 <br />
@@ -275,10 +275,10 @@ FormBee 是一个**开源表单后端**，专为注重数据隐私的开发者�
 ---
 
 ## <a name="22"></a>22. 保持金色，美国 
-<small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/): Stay Gold, America</small>
+<small>[blog.codinghorror.com](https://blog.codinghorror.com/)</small>
 
 
-|🔥: 168 \| 💬: [↗](https://news.ycombinator.com/item?id=42620278) \| 🗓️ 2025-01-06
+| 🔥🔥: 168 | 💬: [198](https://news.ycombinator.com/item?id=42620278) | 🗓️ 2025-01-06
 
 
 <br />
@@ -287,10 +287,10 @@ FormBee 是一个**开源表单后端**，专为注重数据隐私的开发者�
 ---
 
 ## <a name="23"></a>23. Show HN: Mashups – 复活 Yahoo Pipes，我的副项目 
-<small>🔗 [mashups.io](https://www.mashups.io): Show HN: Mashups – Resurrecting Yahoo Pipes, my side project</small>
+<small>[mashups.io](https://www.mashups.io)</small>
 
 
-|🔥: 163 \| 💬: [↗](https://news.ycombinator.com/item?id=42609819) \| 🗓️ 2025-01-06
+| 🔥🔥: 163 | 💬: [43](https://news.ycombinator.com/item?id=42609819) | 🗓️ 2025-01-06
 
 
 <br />
@@ -299,10 +299,10 @@ Mashups 是一个复活 **Yahoo Pipes** 的项目，旨在让用户通过可视�
 ---
 
 ## <a name="24"></a>24. 工业摄影师Christopher Payne聚焦美国劳动之美 
-<small>🔗 [scopeofwork.net](https://www.scopeofwork.net/the-honorable-parts/): Industrial photographer Christopher Payne spotlights the good in American labor</small>
+<small>[scopeofwork.net](https://www.scopeofwork.net/the-honorable-parts/)</small>
 
 
-|🔥: 151 \| 💬: [↗](https://news.ycombinator.com/item?id=42610620) \| 🗓️ 2025-01-06
+| 🔥🔥: 151 | 💬: [28](https://news.ycombinator.com/item?id=42610620) | 🗓️ 2025-01-06
 
 
 <br />
@@ -311,10 +311,10 @@ Christopher Payne通过摄影记录美国制造业与基础设施的**精细工�
 ---
 
 ## <a name="25"></a>25. 从JSON合成音乐 
-<small>🔗 [phoboslab.org](https://phoboslab.org/log/2025/01/synth): Synthesizing Music from JSON</small>
+<small>[phoboslab.org](https://phoboslab.org/log/2025/01/synth)</small>
 
 
-|🔥: 125 \| 💬: [↗](https://news.ycombinator.com/item?id=42613537) \| 🗓️ 2025-01-06
+| 🔥🔥: 125 | 💬: [18](https://news.ycombinator.com/item?id=42613537) | 🗓️ 2025-01-06
 
 
 <br />
@@ -323,10 +323,10 @@ Dominic Szablewski介绍了**pl_synth**，一个用于C和JS的微型音乐合�
 ---
 
 ## <a name="26"></a>26. 代理并不足够 
-<small>🔗 [arxiv.org](https://www.arxiv.org/pdf/2412.16241): Agents Are Not Enough</small>
+<small>[arxiv.org](https://www.arxiv.org/pdf/2412.16241)</small>
 
 
-|🔥: 122 \| 💬: [↗](https://news.ycombinator.com/item?id=42611099) \| 🗓️ 2025-01-06
+| 🔥🔥: 122 | 💬: [89](https://news.ycombinator.com/item?id=42611099) | 🗓️ 2025-01-06
 
 
 <br />
@@ -335,10 +335,10 @@ Dominic Szablewski介绍了**pl_synth**，一个用于C和JS的微型音乐合�
 ---
 
 ## <a name="27"></a>27. 观看粒子在靠近时弹跳并建立连接以放松身心 
-<small>🔗 [tiki.li](https://tiki.li/apps/particles.html?v=2501a): Relax while watching bouncing particles making connections when they get closer</small>
+<small>[tiki.li](https://tiki.li/apps/particles.html?v=2501a)</small>
 
 
-|🔥: 116 \| 💬: [↗](https://news.ycombinator.com/item?id=42611919) \| 🗓️ 2025-01-06
+| 🔥🔥: 116 | 💬: [44](https://news.ycombinator.com/item?id=42611919) | 🗓️ 2025-01-06
 
 
 <br />
@@ -347,10 +347,10 @@ Dominic Szablewski介绍了**pl_synth**，一个用于C和JS的微型音乐合�
 ---
 
 ## <a name="28"></a>28. 大公司中工程师声誉的棘轮效应 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/ratchet-effects/): Ratchet effects determine engineer reputation at large companies</small>
+<small>[seangoedecke.com](https://www.seangoedecke.com/ratchet-effects/)</small>
 
 
-|🔥: 108 \| 💬: [↗](https://news.ycombinator.com/item?id=42610021) \| 🗓️ 2025-01-06
+| 🔥🔥: 108 | 💬: [40](https://news.ycombinator.com/item?id=42610021) | 🗓️ 2025-01-06
 
 
 <br />
@@ -359,10 +359,10 @@ Dominic Szablewski介绍了**pl_synth**，一个用于C和JS的微型音乐合�
 ---
 
 ## <a name="29"></a>29. 最新虚假文学代理机构 
-<small>🔗 [writerbeware.blog](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/): The Latest Fake Literary Agencies</small>
+<small>[writerbeware.blog](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)</small>
 
 
-|🔥: 93 \| 💬: [↗](https://news.ycombinator.com/item?id=42611126) \| 🗓️ 2025-01-06
+| 🔥: 93 | 💬: [32](https://news.ycombinator.com/item?id=42611126) | 🗓️ 2025-01-06
 
 
 <br />
@@ -371,10 +371,10 @@ Dominic Szablewski介绍了**pl_synth**，一个用于C和JS的微型音乐合�
 ---
 
 ## <a name="30"></a>30. 意大利软件盗版的传奇故事——1983-1993（2022） 
-<small>🔗 [genesistemple.com](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993): A swashbuckling tale of Italian software piracy – 1983-1993 (2022)</small>
+<small>[genesistemple.com](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993)</small>
 
 
-|🔥: 89 \| 💬: [↗](https://news.ycombinator.com/item?id=42611818) \| 🗓️ 2025-01-06
+| 🔥: 89 | 💬: [38](https://news.ycombinator.com/item?id=42611818) | 🗓️ 2025-01-06
 
 
 <br />
@@ -383,10 +383,10 @@ Dominic Szablewski介绍了**pl_synth**，一个用于C和JS的微型音乐合�
 ---
 
 ## <a name="31"></a>31. AMD 'Strix Halo' Ryzen AI Max+ 携 RDNA 3.5 显卡和 Zen 5 CPU 核心亮相 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores): AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores</small>
+<small>[tomshardware.com](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)</small>
 
 
-|🔥: 83 \| 💬: [↗](https://news.ycombinator.com/item?id=42614450) \| 🗓️ 2025-01-06
+| 🔥: 83 | 💬: [82](https://news.ycombinator.com/item?id=42614450) | 🗓️ 2025-01-06
 
 
 <br />
@@ -395,10 +395,10 @@ AMD 在 CES 2025 上发布了 **Ryzen AI Max+ 395**，这款处理器搭载 **16
 ---
 
 ## <a name="32"></a>32. 我们是来自世界各地的青少年黑客，一起编程 
-<small>🔗 [hackclub.com](https://hackclub.com/): We are teen hackers from around the world who code together</small>
+<small>[hackclub.com](https://hackclub.com/)</small>
 
 
-|🔥: 82 \| 💬: [↗](https://news.ycombinator.com/item?id=42611282) \| 🗓️ 2025-01-06
+| 🔥: 82 | 💬: [18](https://news.ycombinator.com/item?id=42611282) | 🗓️ 2025-01-06
 
 
 <br />
@@ -407,10 +407,10 @@ Hack Club 是一个全球性的青少年编程社区，**在线和线下**聚集
 ---
 
 ## <a name="33"></a>33. 芝加哥抬升工程 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Raising_of_Chicago): Raising of Chicago</small>
+<small>[en.wikipedia.org](https://en.wikipedia.org/wiki/Raising_of_Chicago)</small>
 
 
-|🔥: 82 \| 💬: [↗](https://news.ycombinator.com/item?id=42611978) \| 🗓️ 2025-01-06
+| 🔥: 82 | 💬: [40](https://news.ycombinator.com/item?id=42611978) | 🗓️ 2025-01-06
 
 
 <br />
@@ -419,10 +419,10 @@ Hack Club 是一个全球性的青少年编程社区，**在线和线下**聚集
 ---
 
 ## <a name="34"></a>34. 为什么企业正在削减管理层？ 
-<small>🔗 [arnoldkling.substack.com](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers): Why are corporations cutting managers?</small>
+<small>[arnoldkling.substack.com](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)</small>
 
 
-|🔥: 77 \| 💬: [↗](https://news.ycombinator.com/item?id=42610007) \| 🗓️ 2025-01-06
+| 🔥: 77 | 💬: [58](https://news.ycombinator.com/item?id=42610007) | 🗓️ 2025-01-06
 
 
 <br />
@@ -431,10 +431,10 @@ Hack Club 是一个全球性的青少年编程社区，**在线和线下**聚集
 ---
 
 ## <a name="35"></a>35. 小数据 [视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=eDr6_cMtfdA): Small Data [video]</small>
+<small>[youtube.com](https://www.youtube.com/watch?v=eDr6_cMtfdA)</small>
 
 
-|🔥: 76 \| 💬: [↗](https://news.ycombinator.com/item?id=42616495) \| 🗓️ 2025-01-06
+| 🔥: 76 | 💬: [11](https://news.ycombinator.com/item?id=42616495) | 🗓️ 2025-01-06
 
 
 <br />
@@ -443,10 +443,10 @@ Hack Club 是一个全球性的青少年编程社区，**在线和线下**聚集
 ---
 
 ## <a name="36"></a>36. Show HN: 过滤X/Twitter上的互动诱饵和政治内容 
-<small>🔗 [unbaited.danielpetho.com](https://unbaited.danielpetho.com): Show HN: Filter out engagement bait and politics on your X/Twitter feed</small>
+<small>[unbaited.danielpetho.com](https://unbaited.danielpetho.com)</small>
 
 
-|🔥: 70 \| 💬: [↗](https://news.ycombinator.com/item?id=42609151) \| 🗓️ 2025-01-06
+| 🔥: 70 | 💬: [128](https://news.ycombinator.com/item?id=42609151) | 🗓️ 2025-01-06
 
 
 <br />
@@ -455,10 +455,10 @@ Unbaited是一款浏览器扩展，利用**Llama 3.3模型**和**Groq API**实�
 ---
 
 ## <a name="37"></a>37. 在喧嚣与匆忙中，谷歌成功实现了SpaceX般的垂直整合 
-<small>🔗 [markmaunder.com](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/): Amidst the noise and haste, Google has successfully pulled a SpaceX</small>
+<small>[markmaunder.com](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)</small>
 
 
-|🔥: 69 \| 💬: [↗](https://news.ycombinator.com/item?id=42617005) \| 🗓️ 2025-01-06
+| 🔥: 69 | 💬: [58](https://news.ycombinator.com/item?id=42617005) | 🗓️ 2025-01-06
 
 
 <br />
@@ -467,10 +467,10 @@ Unbaited是一款浏览器扩展，利用**Llama 3.3模型**和**Groq API**实�
 ---
 
 ## <a name="38"></a>38. 英伟达发布其品牌的世界模型 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/): Nvidia releases its own brand of world models</small>
+<small>[techcrunch.com](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)</small>
 
 
-|🔥: 69 \| 💬: [↗](https://news.ycombinator.com/item?id=42620001) \| 🗓️ 2025-01-06
+| 🔥: 69 | 💬: [70](https://news.ycombinator.com/item?id=42620001) | 🗓️ 2025-01-06
 
 
 <br />
@@ -479,10 +479,10 @@ Unbaited是一款浏览器扩展，利用**Llama 3.3模型**和**Groq API**实�
 ---
 
 ## <a name="39"></a>39. 年度黑客提名：格罗米特狗狗 
-<small>🔗 [cybershow.uk](https://cybershow.uk/blog/posts/gromit/): Hacker of the year nominee: Gromit the Dog</small>
+<small>[cybershow.uk](https://cybershow.uk/blog/posts/gromit/)</small>
 
 
-|🔥: 67 \| 💬: [↗](https://news.ycombinator.com/item?id=42616074) \| 🗓️ 2025-01-06
+| 🔥: 67 | 💬: [2](https://news.ycombinator.com/item?id=42616074) | 🗓️ 2025-01-06
 
 
 <br />
@@ -491,10 +491,10 @@ Unbaited是一款浏览器扩展，利用**Llama 3.3模型**和**Groq API**实�
 ---
 
 ## <a name="40"></a>40. 一位男子让希望与70年历史的弹珠机永存 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/): A man keeping hope, and 70-year-old pinball machines, alive</small>
+<small>[arstechnica.com](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)</small>
 
 
-|🔥: 58 \| 💬: [↗](https://news.ycombinator.com/item?id=42610457) \| 🗓️ 2025-01-06
+| 🔥: 58 | 💬: [30](https://news.ycombinator.com/item?id=42610457) | 🗓️ 2025-01-06
 
 
 <br />
