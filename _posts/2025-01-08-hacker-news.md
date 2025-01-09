@@ -1,18 +1,18 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 15:33:09
+date: 2025-01-08 16:33:10
 categories: 新闻
 tags:
   - hacker_news
 ---
 
 
-1. 在云端以不到8美元破解512位DKIM密钥；
-1. Fidget：大规模数学表达式库；
-1. NeuralSVG：一种用于文本到矢量生成的隐式表示；
-1. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外；
-1. 老去的程序员；
+1. 在云端以不到8美元破解512位DKIM密钥；[🔗](hacker_news.md#1)
+1. Fidget：大规模数学表达式库；[🔗](hacker_news.md#2)
+1. NeuralSVG：一种用于文本到矢量生成的隐式表示；[🔗](hacker_news.md#3)
+1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker_news.md#4)
+1. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外；[🔗](hacker_news.md#5)
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [dmarcchecker.app](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key): Cracking a 512-bit DKIM key for less than $8 in the cloud</small>
 
 
-|🔥: 536 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
+|🔥: 553 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
 
 
-|🔥: 330 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
+|🔥: 342 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -50,7 +50,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 <small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
 
 
-|🔥: 266 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
+|🔥: 305 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -58,11 +58,23 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="4"></a>4. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
+## <a name="4"></a>4. 我不得不撤下我的课程交换网站，否则将被开除 
+<small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
+
+
+|🔥: 214 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
+
+
+<br />
+华盛顿大学计算机科学专业的学生JD Kaim开发了一个名为**HuskySwap**的课程交换平台，旨在帮助学生交换已满的课程名额。然而，当他尝试与学校的注册系统集成时，收到了违反**注册篡改滥用政策**的通知，并被威胁若不撤下网站将面临开除。尽管他最初希望改善校园体验，但学校的反应让他感到失望。JD计划毕业后继续从事其他项目，不再受制于学校的规定。
+
+---
+
+## <a name="5"></a>5. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
 
 
-|🔥: 206 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
+|🔥: 209 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -70,11 +82,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="5"></a>5. 老去的程序员 
+## <a name="6"></a>6. 老去的程序员 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
 
 
-|🔥: 202 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
+|🔥: 203 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -82,11 +94,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="6"></a>6. Facebook 删除色情广告相关报道 
+## <a name="7"></a>7. Facebook 删除色情广告相关报道 
 <small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
 
 
-|🔥: 171 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
+|🔥: 200 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -94,11 +106,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="7"></a>7. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
+## <a name="8"></a>8. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
 <small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
 
 
-|🔥: 165 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+|🔥: 174 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -106,11 +118,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="8"></a>8. 将SerenityOS移植到真实硬件，逐步开发驱动 
+## <a name="9"></a>9. 将SerenityOS移植到真实硬件，逐步开发驱动 
 <small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
 
 
-|🔥: 160 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
+|🔥: 174 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -118,11 +130,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="9"></a>9. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
+## <a name="10"></a>10. 洛杉矶山火迫使数千人撤离，NASA JPL关闭 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
 
 
-|🔥: 116 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+|🔥: 145 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -130,11 +142,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="10"></a>10. 一些编程语言的想法 
+## <a name="11"></a>11. 一些编程语言的想法 
 <small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some Programming Language Ideas</small>
 
 
-|🔥: 96 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
+|🔥: 98 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -142,11 +154,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="11"></a>11. 在Rust中嵌入Scheme 
+## <a name="12"></a>12. 在Rust中嵌入Scheme 
 <small>🔗 [raviqqe.com](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/): Embedding Scheme in Rust</small>
 
 
-|🔥: 90 \| 💬: [↗](https://news.ycombinator.com/item?id=42632592) \| 🗓️ 2025-01-08
+|🔥: 91 \| 💬: [↗](https://news.ycombinator.com/item?id=42632592) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -154,11 +166,23 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="12"></a>12. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
+## <a name="13"></a>13. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
+<small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff</small>
+
+
+|🔥: 87 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
+
+
+<br />
+Salesforce CEO Marc Benioff透露，由于**AI技术**显著提升了生产力，公司2025年将不再招聘软件工程师。他表示，**Agentforce**（公司旗舰AI产品）是当前的核心，AI已使工程团队生产力提升**30%**。未来，公司将减少支持工程师，增加销售人员以推广AI价值。尽管公司规模可能扩大，但员工对裁员仍存担忧。
+
+---
+
+## <a name="14"></a>14. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
 <small>🔗 [med.ubc.ca](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/): Spinal cord injuries from mountain biking exceed hockey, other high-risk sports</small>
 
 
-|🔥: 84 \| 💬: [↗](https://news.ycombinator.com/item?id=42632878) \| 🗓️ 2025-01-08
+|🔥: 86 \| 💬: [↗](https://news.ycombinator.com/item?id=42632878) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -166,7 +190,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="13"></a>13. 在Meta工作一周后被解雇：我挖到的所有内幕 
+## <a name="15"></a>15. 在Meta工作一周后被解雇：我挖到的所有内幕 
 <small>🔗 [sebastiancarlos.com](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65): Fired from Meta After 1 Week: Here's All the Dirt I Got</small>
 
 
@@ -178,11 +202,11 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式的库，�
 
 ---
 
-## <a name="14"></a>14. Stack Overflow 新问题数量较 2022 年下降 77% 
+## <a name="16"></a>16. Stack Overflow 新问题数量较 2022 年下降 77% 
 <small>🔗 [gist.github.com](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132): New questions on Stack Overflow are down 77% compared to 2022</small>
 
 
-|🔥: 66 \| 💬: [↗](https://news.ycombinator.com/item?id=42633880) \| 🗓️ 2025-01-08
+|🔥: 67 \| 💬: [↗](https://news.ycombinator.com/item?id=42633880) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -190,7 +214,7 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="15"></a>15. 德国人转向阳台太阳能板以节省开支 
+## <a name="17"></a>17. 德国人转向阳台太阳能板以节省开支 
 <small>🔗 [france24.com](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money): Germans turn to balcony solar panels to save money</small>
 
 
@@ -202,23 +226,11 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="16"></a>16. 我不得不撤下我的课程交换网站，否则将被开除 
-<small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
-
-
-|🔥: 61 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
-
-
-<br />
-华盛顿大学计算机科学专业的学生JD Kaim开发了一个名为**HuskySwap**的课程交换平台，旨在帮助学生交换已满的课程名额。然而，当他尝试与学校的注册系统集成时，收到了违反**注册篡改滥用政策**的通知，并被威胁若不撤下网站将面临开除。尽管他最初希望改善校园体验，但学校的反应让他感到失望。JD计划毕业后继续从事其他项目，不再受制于学校的规定。
-
----
-
-## <a name="17"></a>17. 巴沙撒的时钟：夜光时钟 
+## <a name="18"></a>18. 巴沙撒的时钟：夜光时钟 
 <small>🔗 [blog.karliner.net](https://blog.karliner.net/projects/belshazzars-clock/): Show HN: Belshazzar's Clock, luminous paint night clock</small>
 
 
-|🔥: 52 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
+|🔥: 56 \| 💬: [↗](https://news.ycombinator.com/item?id=42633035) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -226,11 +238,11 @@ Stack Overflow 的新问题数量从 2023 年 3 月的 87,105 个降至 2024 年
 
 ---
 
-## <a name="18"></a>18. Linux 路由基础 
+## <a name="19"></a>19. Linux 路由基础 
 <small>🔗 [blog.sdn.clinic](https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/): Linux Routing Fundamentals</small>
 
 
-|🔥: 48 \| 💬: [↗](https://news.ycombinator.com/item?id=42632671) \| 🗓️ 2025-01-08
+|🔥: 51 \| 💬: [↗](https://news.ycombinator.com/item?id=42632671) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -238,26 +250,14 @@ Linux 系统默认支持多种路由表，包括 **local**、**main** 和 **defa
 
 ---
 
-## <a name="19"></a>19. 白宫推出消费者设备网络安全信任标志计划 
+## <a name="20"></a>20. 白宫推出消费者设备网络安全信任标志计划 
 <small>🔗 [nextgov.com](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/): White House unveils Cyber Trust Mark program for consumer devices</small>
 
 
-|🔥: 47 \| 💬: [↗](https://news.ycombinator.com/item?id=42636675) \| 🗓️ 2025-01-08
+|🔥: 48 \| 💬: [↗](https://news.ycombinator.com/item?id=42636675) \| 🗓️ 2025-01-08
 
 
 <br />
 白宫推出了一项针对物联网设备的**网络安全信任标志**计划，旨在帮助消费者选择符合政府认证网络安全标准的产品。该标志类似于能源之星标签，由UL Solutions主导管理，亚马逊和百思买等大公司将协助推广。预计2025年将有带标志的产品上市，联邦政府也将在2027年前采购带此标志的设备。
-
----
-
-## <a name="20"></a>20. Sam Altman被妹妹指控性侵 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/08/openai-chief-executive-sam-altman-accused-of-sexual-abuse-by-sister-in-lawsuit): Sam Altman accused of sexual abuse by his sister</small>
-
-
-|🔥: 41 \| 💬: [↗](https://news.ycombinator.com/item?id=42634123) \| 🗓️ 2025-01-08
-
-
-<br />
-OpenAI首席执行官**Sam Altman**被其妹妹Ann Altman指控在童年时期多次性侵她。Ann在诉讼中称，虐待从她3岁、Sam 12岁时开始，最后一次发生在她仍是未成年人时。Sam及其家人发表联合声明，称这些指控“完全不实”，并指责Ann因**心理健康问题**提出这些“伤害性”的指控。诉讼要求陪审团审判和超过7.5万美元的赔偿。Sam是科技界知名人物，曾短暂离开OpenAI，后因员工抗议而复职。
 
 ---
