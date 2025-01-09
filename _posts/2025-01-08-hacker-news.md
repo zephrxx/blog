@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 21:46:48
+date: 2025-01-08 22:33:11
 categories: 新闻
 tags:
   - hacker_news
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [dmarcchecker.app](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key): Cracking a 512-bit DKIM key for less than $8 in the cloud</small>
 
 
-|🔥: 621 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
+|🔥: 634 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
 
 
-|🔥: 530 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
+|🔥: 577 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -50,7 +50,7 @@ JD Kaim 是华盛顿大学计算机科学专业的学生，他开发了一个名
 <small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
 
 
-|🔥: 436 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
+|🔥: 456 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -62,7 +62,7 @@ JD Kaim 是华盛顿大学计算机科学专业的学生，他开发了一个名
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
 
 
-|🔥: 384 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
+|🔥: 393 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -74,7 +74,7 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式（如数�
 <small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce will hire no more software engineers in 2025, says Marc Benioff</small>
 
 
-|🔥: 255 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
+|🔥: 269 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -82,23 +82,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="6"></a>6. Facebook 正在删除有关色情广告的报道 
-<small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
-
-
-|🔥: 246 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
-
-
-<br />
-12月初，有读者举报在Instagram Reels上看到**露骨的性广告**，广告内容为女性生殖器的特写图片。调查发现，该广告商在Meta平台上投放了约800个类似广告，点击后会跳转到“保密约会”或“本地约会”网站。尽管Facebook于12月13日开始删除部分广告，但大部分仍未被检测到。这反映了Facebook在**广告审核**上的松懈态度，甚至违反了自己的政策。
-
----
-
-## <a name="7"></a>7. 你不必支付 Microsoft 365 的涨价费用 
+## <a name="6"></a>6. 你不必支付 Microsoft 365 的涨价费用 
 <small>🔗 [consumer.org.nz](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase): You don't have to pay the Microsoft 365 price increase</small>
 
 
-|🔥: 238 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
+|🔥: 255 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -106,11 +94,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="8"></a>8. 洛杉矶野火迫使数千人撤离，NASA JPL关闭 
+## <a name="7"></a>7. 洛杉矶野火迫使数千人撤离，NASA JPL关闭 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
 
 
-|🔥: 230 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+|🔥: 251 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -118,11 +106,23 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
+## <a name="8"></a>8. Facebook 正在删除有关色情广告的报道 
+<small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
+
+
+|🔥: 248 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
+
+
+<br />
+12月初，有读者举报在Instagram Reels上看到**露骨的性广告**，广告内容为女性生殖器的特写图片。调查发现，该广告商在Meta平台上投放了约800个类似广告，点击后会跳转到“保密约会”或“本地约会”网站。尽管Facebook于12月13日开始删除部分广告，但大部分仍未被检测到。这反映了Facebook在**广告审核**上的松懈态度，甚至违反了自己的政策。
+
+---
+
 ## <a name="9"></a>9. 老去的程序员 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
 
 
-|🔥: 212 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
+|🔥: 213 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -134,7 +134,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
 
 
-|🔥: 212 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
+|🔥: 213 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -146,7 +146,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 <small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
 
 
-|🔥: 207 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
+|🔥: 213 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -158,7 +158,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 <small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
 
 
-|🔥: 197 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+|🔥: 200 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -170,7 +170,7 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 <small>🔗 [thenewstack.io](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/): Steve Langasek, one of Ubuntu Linux's leading lights, has died</small>
 
 
-|🔥: 140 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
+|🔥: 149 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -178,23 +178,11 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="14"></a>14. 一些编程语言的想法 
-<small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some programming language ideas</small>
-
-
-|🔥: 113 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
-
-
-<br />
-编程语言似乎有些停滞，大多是现有想法的重新组合，而非全新创新。作者提出了一些未完全成形的想法，包括**松散函数调用**、**能力系统**和**半动态语言**。这些想法旨在解决现有语言的局限性，如函数调用的可靠性、权限控制和动态语言的性能问题。虽然部分想法可能不切实际，但作者希望通过分享激发更多创新讨论。
-
----
-
-## <a name="15"></a>15. 28小时日制：第一年更新 
+## <a name="14"></a>14. 28小时日制：第一年更新 
 <small>🔗 [sidhion.com](https://sidhion.com/blog/28h_days_update_1/): 28h Days: year 1 update</small>
 
 
-|🔥: 109 \| 💬: [↗](https://news.ycombinator.com/item?id=42639779) \| 🗓️ 2025-01-08
+|🔥: 128 \| 💬: [↗](https://news.ycombinator.com/item?id=42639779) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -202,11 +190,23 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
+## <a name="15"></a>15. 一些编程语言的想法 
+<small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some programming language ideas</small>
+
+
+|🔥: 121 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
+
+
+<br />
+编程语言似乎有些停滞，大多是现有想法的重新组合，而非全新创新。作者提出了一些未完全成形的想法，包括**松散函数调用**、**能力系统**和**半动态语言**。这些想法旨在解决现有语言的局限性，如函数调用的可靠性、权限控制和动态语言的性能问题。虽然部分想法可能不切实际，但作者希望通过分享激发更多创新讨论。
+
+---
+
 ## <a name="16"></a>16. Show HN: Stagehand – 由AI驱动的开源浏览器自动化框架 
 <small>🔗 [github.com](https://github.com/browserbase/stagehand): Show HN: Stagehand – an open source browser automation framework powered by AI</small>
 
 
-|🔥: 94 \| 💬: [↗](https://news.ycombinator.com/item?id=42635942) \| 🗓️ 2025-01-08
+|🔥: 106 \| 💬: [↗](https://news.ycombinator.com/item?id=42635942) \| 🗓️ 2025-01-08
 
 
 <br />
