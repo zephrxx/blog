@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 22:33:11
+date: 2025-01-08 23:33:12
 categories: 新闻
 tags:
   - hacker_news
@@ -12,7 +12,7 @@ tags:
 1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker-news.html#2)
 1. NeuralSVG：基于隐式神经表示的文本到矢量图形生成；[🔗](hacker-news.html#3)
 1. Fidget：大规模数学表达式的编译与评估库；[🔗](hacker-news.html#4)
-1. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示；[🔗](hacker-news.html#5)
+1. 路易吉·曼吉奥内的抹除；[🔗](hacker-news.html#5)
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [dmarcchecker.app](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key): Cracking a 512-bit DKIM key for less than $8 in the cloud</small>
 
 
-|🔥: 634 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
+|🔥: 648 \| 💬: [↗](https://news.ycombinator.com/item?id=42633501) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb): I had to take down my course-swapping site or be expelled</small>
 
 
-|🔥: 577 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
+|🔥: 610 \| 💬: [↗](https://news.ycombinator.com/item?id=42638626) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -50,7 +50,7 @@ JD Kaim 是华盛顿大学计算机科学专业的学生，他开发了一个名
 <small>🔗 [sagipolaczek.github.io](https://sagipolaczek.github.io/NeuralSVG/): NeuralSVG: An Implicit Representation for Text-to-Vector Generation</small>
 
 
-|🔥: 456 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
+|🔥: 470 \| 💬: [↗](https://news.ycombinator.com/item?id=42636873) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -62,7 +62,7 @@ JD Kaim 是华盛顿大学计算机科学专业的学生，他开发了一个名
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/fidget/): Fidget</small>
 
 
-|🔥: 393 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
+|🔥: 403 \| 💬: [↗](https://news.ycombinator.com/item?id=42634624) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -70,11 +70,23 @@ Fidget 是一个用于表示、编译和评估大规模数学表达式（如数�
 
 ---
 
-## <a name="5"></a>5. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
+## <a name="5"></a>5. 路易吉·曼吉奥内的抹除 
+<small>🔗 [substack.evancarroll.com](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione): The Erasure of Luigi Mangione</small>
+
+
+|🔥: 299 \| 💬: [↗](https://news.ycombinator.com/item?id=42642089) \| 🗓️ 2025-01-08
+
+
+<br />
+Stack Exchange 因移除用户 **路易吉·曼吉奥内** 的署名引发争议。尽管其内容遵循 **Creative Commons** 许可，平台仍将其账户匿名化为“user4616250”。此举引发法律和道德质疑，尤其对比其他平台如 GitHub 和 LinkedIn 的宽容态度。Stack Exchange 的行为被视为对用户权利的侵蚀，并引发社区不满。
+
+---
+
+## <a name="6"></a>6. Salesforce 2025年将不再招聘软件工程师，Marc Benioff表示 
 <small>🔗 [salesforceben.com](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/): Salesforce will hire no more software engineers in 2025, says Marc Benioff</small>
 
 
-|🔥: 269 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
+|🔥: 278 \| 💬: [↗](https://news.ycombinator.com/item?id=42639417) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -82,11 +94,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="6"></a>6. 你不必支付 Microsoft 365 的涨价费用 
+## <a name="7"></a>7. 你不必支付 Microsoft 365 的涨价费用 
 <small>🔗 [consumer.org.nz](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase): You don't have to pay the Microsoft 365 price increase</small>
 
 
-|🔥: 255 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
+|🔥: 276 \| 💬: [↗](https://news.ycombinator.com/item?id=42640180) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -94,11 +106,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="7"></a>7. 洛杉矶野火迫使数千人撤离，NASA JPL关闭 
+## <a name="8"></a>8. 洛杉矶野火迫使数千人撤离，NASA JPL关闭 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/): LA wildfires force thousands to evacuate, NASA JPL closed</small>
 
 
-|🔥: 251 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
+|🔥: 272 \| 💬: [↗](https://news.ycombinator.com/item?id=42638735) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -106,11 +118,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="8"></a>8. Facebook 正在删除有关色情广告的报道 
+## <a name="9"></a>9. Facebook 正在删除有关色情广告的报道 
 <small>🔗 [404media.co](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/): Facebook is removing stories about pornographic ads</small>
 
 
-|🔥: 248 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
+|🔥: 251 \| 💬: [↗](https://news.ycombinator.com/item?id=42637267) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -118,35 +130,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="9"></a>9. 老去的程序员 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer</small>
-
-
-|🔥: 213 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
-
-
-<br />
-本文探讨了程序员在职业生涯中面临的**年龄挑战**，尤其是在技术快速变化的行业中。随着年龄增长，程序员可能面临**技能过时**和**职业发展瓶颈**的问题。文章还提到了一些应对策略，如持续学习和适应新技术，以保持竞争力。
-
----
-
-## <a name="10"></a>10. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
-
-
-|🔥: 213 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
-
-
-<br />
-联想宣布即将推出的**Legion Go S**将成为首款预装官方授权**SteamOS**的非Valve掌机。**SteamOS**版本起售价为500美元，比Windows版本便宜。Valve表示，未来将支持更多设备，并发布公开测试版。此举可能对微软的游戏业务构成挑战。
-
----
-
-## <a name="11"></a>11. 将SerenityOS移植到真实硬件，逐个驱动实现 
+## <a name="10"></a>10. 将SerenityOS移植到真实硬件，逐个驱动实现 
 <small>🔗 [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/): Bringing SerenityOS to real hardware, one driver at a time</small>
 
 
-|🔥: 213 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
+|🔥: 218 \| 💬: [↗](https://news.ycombinator.com/item?id=42636086) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -154,11 +142,35 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="12"></a>12. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
+## <a name="11"></a>11. 老去的程序员 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=mVWQQeSOD0M): The Aging Programmer [video]</small>
+
+
+|🔥: 214 \| 💬: [↗](https://news.ycombinator.com/item?id=42632772) \| 🗓️ 2025-01-08
+
+
+<br />
+本文探讨了程序员在职业生涯中面临的**年龄挑战**，尤其是在技术快速变化的行业中。随着年龄增长，程序员可能面临**技能过时**和**职业发展瓶颈**的问题。文章还提到了一些应对策略，如持续学习和适应新技术，以保持竞争力。
+
+---
+
+## <a name="12"></a>12. 再见Windows游戏？SteamOS正式扩展至Steam Deck之外 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/): Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</small>
+
+
+|🔥: 214 \| 💬: [↗](https://news.ycombinator.com/item?id=42633269) \| 🗓️ 2025-01-08
+
+
+<br />
+联想宣布即将推出的**Legion Go S**将成为首款预装官方授权**SteamOS**的非Valve掌机。**SteamOS**版本起售价为500美元，比Windows版本便宜。Valve表示，未来将支持更多设备，并发布公开测试版。此举可能对微软的游戏业务构成挑战。
+
+---
+
+## <a name="13"></a>13. 密歇根大学机器人101：应用数值线性代数作为入门线性代数 
 <small>🔗 [robotics.umich.edu](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/): Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</small>
 
 
-|🔥: 200 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
+|🔥: 207 \| 💬: [↗](https://news.ycombinator.com/item?id=42633805) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -166,11 +178,11 @@ Salesforce CEO Marc Benioff透露，由于**AI技术**带来的显著生产力�
 
 ---
 
-## <a name="13"></a>13. Ubuntu Linux 的重要贡献者 Steve Langasek 去世 
+## <a name="14"></a>14. Ubuntu Linux 的重要贡献者 Steve Langasek 去世 
 <small>🔗 [thenewstack.io](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/): Steve Langasek, one of Ubuntu Linux's leading lights, has died</small>
 
 
-|🔥: 149 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
+|🔥: 160 \| 💬: [↗](https://news.ycombinator.com/item?id=42639563) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -178,11 +190,11 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="14"></a>14. 28小时日制：第一年更新 
+## <a name="15"></a>15. 28小时日制：第一年更新 
 <small>🔗 [sidhion.com](https://sidhion.com/blog/28h_days_update_1/): 28h Days: year 1 update</small>
 
 
-|🔥: 128 \| 💬: [↗](https://news.ycombinator.com/item?id=42639779) \| 🗓️ 2025-01-08
+|🔥: 136 \| 💬: [↗](https://news.ycombinator.com/item?id=42639779) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -190,11 +202,11 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="15"></a>15. 一些编程语言的想法 
+## <a name="16"></a>16. 一些编程语言的想法 
 <small>🔗 [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/): Some programming language ideas</small>
 
 
-|🔥: 121 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
+|🔥: 127 \| 💬: [↗](https://news.ycombinator.com/item?id=42637304) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -202,11 +214,11 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="16"></a>16. Show HN: Stagehand – 由AI驱动的开源浏览器自动化框架 
+## <a name="17"></a>17. Show HN: Stagehand – 由AI驱动的开源浏览器自动化框架 
 <small>🔗 [github.com](https://github.com/browserbase/stagehand): Show HN: Stagehand – an open source browser automation framework powered by AI</small>
 
 
-|🔥: 106 \| 💬: [↗](https://news.ycombinator.com/item?id=42635942) \| 🗓️ 2025-01-08
+|🔥: 120 \| 💬: [↗](https://news.ycombinator.com/item?id=42635942) \| 🗓️ 2025-01-08
 
 
 <br />
@@ -214,7 +226,7 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="17"></a>17. 在Rust中嵌入Scheme 
+## <a name="18"></a>18. 在Rust中嵌入Scheme 
 <small>🔗 [raviqqe.com](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/): Embedding Scheme in Rust</small>
 
 
@@ -226,7 +238,7 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="18"></a>18. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
+## <a name="19"></a>19. 山地自行车导致的脊髓损伤超过冰球和其他高风险运动 
 <small>🔗 [med.ubc.ca](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/): Spinal cord injuries from mountain biking exceed hockey, other high-risk sports</small>
 
 
@@ -238,26 +250,14 @@ Steve Langasek 是 **Ubuntu Linux** 社区的核心人物之一，他的离世�
 
 ---
 
-## <a name="19"></a>19. Stack Overflow 新问题数量较 2022 年下降 77% 
-<small>🔗 [gist.github.com](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132): New questions on Stack Overflow are down 77% compared to 2022</small>
+## <a name="20"></a>20. 白宫推出消费者设备网络安全信任标志计划 
+<small>🔗 [nextgov.com](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/): White House unveils Cyber Trust Mark program for consumer devices</small>
 
 
-|🔥: 68 \| 💬: [↗](https://news.ycombinator.com/item?id=42633880) \| 🗓️ 2025-01-08
-
-
-<br />
-Stack Overflow 的新问题数量自 2023 年 3 月以来持续下降，从 87,105 降至 2024 年 12 月的 25,566，降幅达 **70.7%**。**ChatGPT 的推出**（2022 年 11 月）后，问题数量减少了 **76.5%**。高贡献用户反映，高质量问题被迅速关闭，导致用户流失，平台可能面临 **生存危机**。
-
----
-
-## <a name="20"></a>20. 在Meta工作一周后被解雇：我挖到的所有内幕 
-<small>🔗 [sebastiancarlos.com](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65): Fired from Meta After 1 Week: Here's All the Dirt I Got</small>
-
-
-|🔥: 67 \| 💬: [↗](https://news.ycombinator.com/item?id=42633463) \| 🗓️ 2025-01-08
+|🔥: 71 \| 💬: [↗](https://news.ycombinator.com/item?id=42636675) \| 🗓️ 2025-01-08
 
 
 <br />
-作者在Meta工作仅一周后被解雇，揭露了公司内部的**道德困境**和**技术黑幕**。他利用**Prolog**重写了Meta的“有害内容检测”算法，发现系统将Meta的使命声明标记为“有害”，揭示了公司内部逻辑与现实的矛盾。最终，他因揭露真相被解雇，但通过法律漏洞分享了这段经历。
+白宫推出**网络安全信任标志**计划，旨在帮助消费者选择符合政府认证网络安全标准的物联网设备。该标志类似于能源之星标签，由**NIST**和**FCC**共同开发，预计2025年上市。联邦政府将在2027年前采购带有该标志的设备，以推动市场更安全。
 
 ---
