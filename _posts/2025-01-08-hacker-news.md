@@ -1,18 +1,18 @@
 ---
 layout: page
 title: 新闻：勒西科技头条 - 2025年01月08日
-date: 2025-01-08 20:40:44
+date: 2025-01-08 20:42:36
 categories: 新闻
 tags:
   - hacker_news
 ---
 
 
-1. 在云端以不到8美元的成本破解512位DKIM密钥；[🔗](hacker-news.md#1)
-1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker-news.md#2)
-1. NeuralSVG：基于隐式神经表示的文本到矢量图形生成；[🔗](hacker-news.md#3)
-1. Fidget：大规模数学表达式的编译与评估库；[🔗](hacker-news.md#4)
-1. Facebook 正在删除有关色情广告的报道；[🔗](hacker-news.md#5)
+1. 在云端以不到8美元的成本破解512位DKIM密钥；[🔗](hacker-news.html#1)
+1. 我不得不撤下我的课程交换网站，否则将被开除；[🔗](hacker-news.html#2)
+1. NeuralSVG：基于隐式神经表示的文本到矢量图形生成；[🔗](hacker-news.html#3)
+1. Fidget：大规模数学表达式的编译与评估库；[🔗](hacker-news.html#4)
+1. Facebook 正在删除有关色情广告的报道；[🔗](hacker-news.html#5)
 
 以上是今天的前五条黑科技新闻标题。
 
