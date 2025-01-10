@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻：勒西科技日报 - 2025年01月09日
-date: 2025-01-09 14:33:10
+date: 2025-01-09 00:00:00
 categories: 新闻
 tags:
   - hacker_news
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [th0mas.nl](https://th0mas.nl/downloads/pdftris.pdf): Show HN: Tetris in a PDF</small>
 
 
-| 🔥🔥: 633 | 💬: [120](https://news.ycombinator.com/item?id=42645218) | 🗓️ 2025-01-09
+| 🔥🔥: 673 | 💬: [126](https://news.ycombinator.com/item?id=42645218) | 🗓️ 2025-01-09
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/piebro/factorio-blueprint-visualizer): Show HN: Factorio Blueprint Visualizer</small>
 
 
-| 🔥🔥: 336 | 💬: [78](https://news.ycombinator.com/item?id=42644168) | 🗓️ 2025-01-09
+| 🔥🔥: 349 | 💬: [80](https://news.ycombinator.com/item?id=42644168) | 🗓️ 2025-01-09
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [blog.orange.tw](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/): WorstFit: Unveiling Hidden Transformers in Windows ANSI</small>
 
 
-| 🔥🔥: 180 | 💬: [41](https://news.ycombinator.com/item?id=42647101) | 🗓️ 2025-01-09
+| 🔥🔥: 199 | 💬: [44](https://news.ycombinator.com/item?id=42647101) | 🗓️ 2025-01-09
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/): VLC tops 6B downloads, previews AI-generated subtitles</small>
 
 
-| 🔥🔥: 149 | 💬: [155](https://news.ycombinator.com/item?id=42644015) | 🗓️ 2025-01-09
+| 🔥🔥: 151 | 💬: [155](https://news.ycombinator.com/item?id=42644015) | 🗓️ 2025-01-09
 
 
 <br />
@@ -74,7 +74,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/): My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks</small>
 
 
-| 🔥🔥: 128 | 💬: [79](https://news.ycombinator.com/item?id=42644834) | 🗓️ 2025-01-09
+| 🔥🔥: 129 | 💬: [79](https://news.ycombinator.com/item?id=42644834) | 🗓️ 2025-01-09
 
 
 <br />
@@ -98,7 +98,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [davidallengreen.com](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/): "Twelfth Night Till Candlemas" – a 40-year book-quest and its remarkable ending</small>
 
 
-| 🔥: 100 | 💬: [23](https://news.ycombinator.com/item?id=42647633) | 🗓️ 2025-01-09
+| 🔥🔥: 107 | 💬: [24](https://news.ycombinator.com/item?id=42647633) | 🗓️ 2025-01-09
 
 
 <br />
@@ -106,7 +106,31 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="8"></a>8. 微软应该对SteamOS感到恐惧 
+## <a name="8"></a>8. 2024年我最喜欢的自托管应用 
+<small>🔗 [selfh.st](https://selfh.st/2024-favorite-new-apps/): My Favorite Self-Hosted Apps Launched in 2024</small>
+
+
+| 🔥🔥: 102 | 💬: [25](https://news.ycombinator.com/item?id=42645119) | 🗓️ 2025-01-09
+
+
+<br />
+2024年是自托管软件蓬勃发展的一年，Ethan Sholly精选了多款**功能独特**且**社区反响热烈**的新应用。其中包括**Hoarder**（书签管理）、**Pinchflat**（YouTube内容管理）和**Glance**（多功能仪表盘）等。这些应用不仅界面简洁，还支持AI集成和多平台兼容，为自托管爱好者提供了更多选择。
+
+---
+
+## <a name="9"></a>9. 有理还是无理？这个基础数学问题花了几十年才得到答案 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
+
+
+| 🔥: 98 | 💬: [79](https://news.ycombinator.com/item?id=42644896) | 🗓️ 2025-01-09
+
+
+<br />
+1978年，数学家罗杰·阿佩里证明了**ζ(3)**（黎曼ζ函数在3处的值）是**无理数**，震惊了数学界。尽管他的证明起初遭到质疑，但最终被接受。然而，阿佩里的方法难以推广。如今，数学家弗兰克·卡莱加里等人扩展了阿佩里的方法，证明了更多**ζ函数值**的无理性，这一突破有望推动更多相关证明的出现。
+
+---
+
+## <a name="10"></a>10. 微软应该对SteamOS感到恐惧 
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html): Microsoft should be terrified of SteamOS</small>
 
 
@@ -115,30 +139,6 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 <br />
 SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。Valve的**Proton兼容层**让Windows游戏在Linux上运行顺畅，而Windows在手持设备上的表现不佳。随着**Lenovo**等厂商采用SteamOS，微软在PC游戏市场的主导地位可能受到挑战。
-
----
-
-## <a name="9"></a>9. 2024年我最喜欢的自托管应用 
-<small>🔗 [selfh.st](https://selfh.st/2024-favorite-new-apps/): My Favorite Self-Hosted Apps Launched in 2024</small>
-
-
-| 🔥: 96 | 💬: [24](https://news.ycombinator.com/item?id=42645119) | 🗓️ 2025-01-09
-
-
-<br />
-2024年是自托管软件蓬勃发展的一年，Ethan Sholly精选了多款**功能独特**且**社区反响热烈**的新应用。其中包括**Hoarder**（书签管理）、**Pinchflat**（YouTube内容管理）和**Glance**（多功能仪表盘）等。这些应用不仅界面简洁，还支持AI集成和多平台兼容，为自托管爱好者提供了更多选择。
-
----
-
-## <a name="10"></a>10. 有理还是无理？这个基础数学问题花了几十年才得到答案 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
-
-
-| 🔥: 92 | 💬: [76](https://news.ycombinator.com/item?id=42644896) | 🗓️ 2025-01-09
-
-
-<br />
-1978年，数学家罗杰·阿佩里证明了**ζ(3)**（黎曼ζ函数在3处的值）是**无理数**，震惊了数学界。尽管他的证明起初遭到质疑，但最终被接受。然而，阿佩里的方法难以推广。如今，数学家弗兰克·卡莱加里等人扩展了阿佩里的方法，证明了更多**ζ函数值**的无理性，这一突破有望推动更多相关证明的出现。
 
 ---
 
@@ -166,7 +166,19 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="13"></a>13. 谁会花120美元买一个树莓派？ 
+## <a name="13"></a>13. 如何删除你的Facebook账户 
+<small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
+
+
+| 🔥: 74 | 💬: [59](https://news.ycombinator.com/item?id=42649887) | 🗓️ 2025-01-09
+
+
+<br />
+由于Meta对**仇恨言论定义**的更改以及**事实核查**的重要性下降，许多人考虑删除Facebook账户。首先，建议**下载个人数据存档**，包括照片、聊天记录等。然后，通过账户中心选择**删除账户**，并确认密码。删除后，账户将在一段时间内不可访问，但部分内容可能仍会保留。
+
+---
+
+## <a name="14"></a>14. 谁会花120美元买一个树莓派？ 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120): Who would buy a Raspberry Pi for $120?</small>
 
 
@@ -178,7 +190,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="14"></a>14. 男子被困无人驾驶车内，车辆原地打转 
+## <a name="15"></a>15. 男子被困无人驾驶车内，车辆原地打转 
 <small>🔗 [bbc.com](https://www.bbc.com/news/videos/c70e2g09ng9o): Man trapped inside driverless car as it spins in circles</small>
 
 
@@ -190,23 +202,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="15"></a>15. 防错法（Poka-Yoke） 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Poka-yoke): Poka-Yoke</small>
-
-
-| 🔥: 63 | 💬: [34](https://news.ycombinator.com/item?id=42643532) | 🗓️ 2025-01-09
-
-
-<br />
-防错法是一种源自日本丰田生产系统的**错误预防**机制，旨在通过设计流程或设备来避免人为错误。其核心思想是通过**行为约束**或**强制功能**，防止、纠正或提醒操作员在过程中可能出现的错误。例如，汽车启动前必须踩下离合器或刹车踏板，微波炉门未关时无法启动等。防错法广泛应用于制造业和服务业，帮助减少缺陷、提高效率并确保产品质量。
-
----
-
 ## <a name="16"></a>16. 七步文档模型 
 <small>🔗 [passo.uno](https://passo.uno/seven-action-model/): The Seven-Action Documentation Model</small>
 
 
-| 🔥: 62 | 💬: [8](https://news.ycombinator.com/item?id=42645075) | 🗓️ 2025-01-09
+| 🔥: 66 | 💬: [9](https://news.ycombinator.com/item?id=42645075) | 🗓️ 2025-01-09
 
 
 <br />
@@ -214,11 +214,35 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="17"></a>17. 中国建成全球最大抽水蓄能电站 
+## <a name="17"></a>17. 防错法（Poka-Yoke） 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Poka-yoke): Poka-Yoke</small>
+
+
+| 🔥: 65 | 💬: [36](https://news.ycombinator.com/item?id=42643532) | 🗓️ 2025-01-09
+
+
+<br />
+防错法是一种源自日本丰田生产系统的**错误预防**机制，旨在通过设计流程或设备来避免人为错误。其核心思想是通过**行为约束**或**强制功能**，防止、纠正或提醒操作员在过程中可能出现的错误。例如，汽车启动前必须踩下离合器或刹车踏板，微波炉门未关时无法启动等。防错法广泛应用于制造业和服务业，帮助减少缺陷、提高效率并确保产品质量。
+
+---
+
+## <a name="18"></a>18. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
+<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
+
+
+| 🔥: 63 | 💬: [11](https://news.ycombinator.com/item?id=42647343) | 🗓️ 2025-01-09
+
+
+<br />
+TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专为小型到中型数据集设计。它通过**上下文学习（ICL）**在数百万个合成数据集上进行预训练，能够在单次前向传播中显著超越传统方法（如梯度提升决策树）。TabPFN支持分类、回归、数据生成和密度估计，适用于**跨领域科学发现**和决策优化。
+
+---
+
+## <a name="19"></a>19. 中国建成全球最大抽水蓄能电站 
 <small>🔗 [ess-news.com](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/): World's largest pumped storage power plant fully operational in China</small>
 
 
-| 🔥: 61 | 💬: [60](https://news.ycombinator.com/item?id=42649517) | 🗓️ 2025-01-09
+| 🔥: 63 | 💬: [62](https://news.ycombinator.com/item?id=42649517) | 🗓️ 2025-01-09
 
 
 <br />
@@ -226,19 +250,19 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="18"></a>18. 如何删除你的Facebook账户 
-<small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
+## <a name="20"></a>20. 焊接的泰克之道 
+<small>🔗 [hackaday.com](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/): Soldering the Tek Way</small>
 
 
-| 🔥: 61 | 💬: [48](https://news.ycombinator.com/item?id=42649887) | 🗓️ 2025-01-09
+| 🔥: 59 | 💬: [13](https://news.ycombinator.com/item?id=42650561) | 🗓️ 2025-01-09
 
 
 <br />
-由于Meta对**仇恨言论定义**的更改以及**事实核查**的重要性下降，许多人考虑删除Facebook账户。首先，建议**下载个人数据存档**，包括照片、聊天记录等。然后，通过账户中心选择**删除账户**，并确认密码。删除后，账户将在一段时间内不可访问，但部分内容可能仍会保留。
+在20世纪70年代末至80年代初，Tektronix公司通过制作详细的培训视频，教导员工掌握**焊接技巧**。视频涵盖了从基础焊接理论到实际操作，特别是**焊铁的使用**和**修复技巧**。重点强调了避免损坏PCB的方法，以及如何使修复后的电路板保持美观。这些视频至今仍具有实用价值。
 
 ---
 
-## <a name="19"></a>19. 并非每个用户都拥有iPhone 
+## <a name="21"></a>21. 并非每个用户都拥有iPhone 
 <small>🔗 [calendar.perfplanet.com](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/): Not Every User Owns an iPhone</small>
 
 
@@ -250,11 +274,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="20"></a>20. 凯特的医疗应用 
+## <a name="22"></a>22. 凯特的医疗应用 
 <small>🔗 [katesapp.org](https://katesapp.org/hn): Show HN: Kate's App</small>
 
 
-| 🔥: 56 | 💬: [75](https://news.ycombinator.com/item?id=42646922) | 🗓️ 2025-01-09
+| 🔥: 56 | 💬: [76](https://news.ycombinator.com/item?id=42646922) | 🗓️ 2025-01-09
 
 
 <br />
@@ -262,11 +286,11 @@ Show HN: 凯特的医疗应用是一款帮助用户**安全分享医疗数据**�
 
 ---
 
-## <a name="21"></a>21. 《被慈爱的机器守护》完整文本 
+## <a name="23"></a>23. 《被慈爱的机器守护》完整文本 
 <small>🔗 [blog.jgc.org](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html): The Complete Text of "All Watched over by Machines of Loving Grace"</small>
 
 
-| 🔥: 55 | 💬: [28](https://news.ycombinator.com/item?id=42646932) | 🗓️ 2025-01-09
+| 🔥: 56 | 💬: [29](https://news.ycombinator.com/item?id=42646932) | 🗓️ 2025-01-09
 
 
 <br />
@@ -274,19 +298,19 @@ Richard Brautigan 的诗《**被慈爱的机器守护**》在科技圈中颇有�
 
 ---
 
-## <a name="22"></a>22. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
-<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
+## <a name="24"></a>24. 英国如何获得其首个互联网连接（2015） 
+<small>🔗 [theconversation.com](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404): How Britain got its first internet connection (2015)</small>
 
 
-| 🔥: 53 | 💬: [6](https://news.ycombinator.com/item?id=42647343) | 🗓️ 2025-01-09
+| 🔥: 54 | 💬: [37](https://news.ycombinator.com/item?id=42649340) | 🗓️ 2025-01-09
 
 
 <br />
-TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专为小型到中型数据集设计。它通过**上下文学习（ICL）**在数百万个合成数据集上进行预训练，能够在单次前向传播中显著超越传统方法（如梯度提升决策树）。TabPFN支持分类、回归、数据生成和密度估计，适用于**跨领域科学发现**和决策优化。
+1970年代，英国计算机科学家**Peter Kirstein**通过连接伦敦大学学院（UCL）与美国**Arpanet**，实现了英国首个互联网连接。尽管面临政府阻力和技术挑战，Kirstein成功建立了跨大西洋的网络连接，并引入了**密码保护**，成为Arpanet上的首个密码系统。这一突破为英国科研人员提供了与美国同行协作的平台，标志着英国互联网时代的开端。
 
 ---
 
-## <a name="23"></a>23. 为什么孩子需要更多冒险：科学揭示自由玩耍的益处 
+## <a name="25"></a>25. 为什么孩子需要更多冒险：科学揭示自由玩耍的益处 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-024-04215-2): Why kids need to take more risks: science reveal benefits of wild, free play</small>
 
 
@@ -298,7 +322,7 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 
 ---
 
-## <a name="24"></a>24. SQL 中的 NULL 值很奇怪 
+## <a name="26"></a>26. SQL 中的 NULL 值很奇怪 
 <small>🔗 [jirevwe.github.io](https://jirevwe.github.io/sql-nulls-are-weird.html): SQL NULLs Are Weird</small>
 
 
@@ -310,7 +334,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 
 ---
 
-## <a name="25"></a>25. 为什么我们还没有全面采用无服务器架构？ 
+## <a name="27"></a>27. 为什么我们还没有全面采用无服务器架构？ 
 <small>🔗 [varoa.net](https://varoa.net/2025/01/09/serverless.html): Why aren't we all serverless yet?</small>
 
 
@@ -322,19 +346,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 
 ---
 
-## <a name="26"></a>26. 英国如何获得其首个互联网连接（2015） 
-<small>🔗 [theconversation.com](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404): How Britain got its first internet connection (2015)</small>
-
-
-| 🔥: 42 | 💬: [33](https://news.ycombinator.com/item?id=42649340) | 🗓️ 2025-01-09
-
-
-<br />
-1970年代，英国计算机科学家**Peter Kirstein**通过连接伦敦大学学院（UCL）与美国**Arpanet**，实现了英国首个互联网连接。尽管面临政府阻力和技术挑战，Kirstein成功建立了跨大西洋的网络连接，并引入了**密码保护**，成为Arpanet上的首个密码系统。这一突破为英国科研人员提供了与美国同行协作的平台，标志着英国互联网时代的开端。
-
----
-
-## <a name="27"></a>27. 为什么世界突然变成了米色？ 
+## <a name="28"></a>28. 为什么世界突然变成了米色？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe): The sad beige aesthetic: why has the world suddenly turned taupe?</small>
 
 
@@ -346,7 +358,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 
 ---
 
-## <a name="28"></a>28. 雅达利ST 40周年纪念 
+## <a name="29"></a>29. 雅达利ST 40周年纪念 
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-st-40th-anniversary): Atari ST 40th Anniversary</small>
 
 
@@ -358,7 +370,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 
 ---
 
-## <a name="29"></a>29. 软件漏洞导致“英国历史上最大的司法不公” 
+## <a name="30"></a>30. 软件漏洞导致“英国历史上最大的司法不公” 
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/news/how-software-bugs-led-to-one-of-the-greatest-miscarriages-of-justice-in-british-history/): Software Bugs Led to 'One of the Greatest Miscarriages of Justice'</small>
 
 
@@ -370,11 +382,11 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 
 ---
 
-## <a name="30"></a>30. 深入探讨JVM启动过程 
+## <a name="31"></a>31. 深入探讨JVM启动过程 
 <small>🔗 [inside.java](https://inside.java/2025/01/09/sw-startup/): A Deep Dive into JVM Start Up</small>
 
 
-| 🔥: 27 | 💬: [3](https://news.ycombinator.com/item?id=42648280) | 🗓️ 2025-01-09
+| 🔥: 27 | 💬: [2](https://news.ycombinator.com/item?id=42648280) | 🗓️ 2025-01-09
 
 
 <br />
@@ -382,23 +394,11 @@ Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析
 
 ---
 
-## <a name="31"></a>31. 因LeetCode错失工作机会 
-<small>🔗 [skarlso.github.io](https://skarlso.github.io/2025/01/08/missing-out-on-jobs-because-of-leetcode/): Missing out on jobs because of LeetCode</small>
-
-
-| 🔥: 24 | 💬: [25](https://news.ycombinator.com/item?id=42647746) | 🗓️ 2025-01-09
-
-
-<br />
-作者因公司破产失业后，花大量时间复习LeetCode和算法，却忽视了**分布式系统**、**Kubernetes内部原理**和**复杂系统设计**等实际工作中更重要的知识。面试时因紧张和知识盲区表现不佳，认为企业应更关注候选人对相关技术的理解而非算法能力。
-
----
-
 ## <a name="32"></a>32. 我们可以共同弃用 git checkout 吗？ 
 <small>🔗 [mirawelner.com](https://mirawelner.com/posts/checkout.html): Can we communally deprecate git checkout?</small>
 
 
-| 🔥: 24 | 💬: [63](https://news.ycombinator.com/item?id=42649858) | 🗓️ 2025-01-09
+| 🔥: 26 | 💬: [82](https://news.ycombinator.com/item?id=42649858) | 🗓️ 2025-01-09
 
 
 <br />
@@ -406,7 +406,31 @@ Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析
 
 ---
 
-## <a name="33"></a>33. 在Bing上搜索“Google”时，Bing伪装成Google 
+## <a name="33"></a>33. Automattic 调整对 WordPress 的赞助贡献 
+<small>🔗 [automattic.com](https://automattic.com/2025/01/09/aligning-automattics-sponsored-contributions-to-wordpress/): Aligning Automattic's Sponsored Contributions to WordPress</small>
+
+
+| 🔥: 26 | 💬: [6](https://news.ycombinator.com/item?id=42650138) | 🗓️ 2025-01-09
+
+
+<br />
+Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律纠纷和资源分配不平衡问题。**WP Engine 的法律攻击**消耗了大量资源，迫使 Automattic 重新调整策略。未来，Automattic 将专注于内部盈利项目，如 WordPress.com 和 Jetpack，同时承诺匹配 WP Engine 的志愿者贡献时间（约 45 小时/周）。Automattic 强调，此举旨在确保 WordPress 的长期健康发展，并期待未来重返核心贡献。
+
+---
+
+## <a name="34"></a>34. 因LeetCode错失工作机会 
+<small>🔗 [skarlso.github.io](https://skarlso.github.io/2025/01/08/missing-out-on-jobs-because-of-leetcode/): Missing out on jobs because of LeetCode</small>
+
+
+| 🔥: 24 | 💬: [26](https://news.ycombinator.com/item?id=42647746) | 🗓️ 2025-01-09
+
+
+<br />
+作者因公司破产失业后，花大量时间复习LeetCode和算法，却忽视了**分布式系统**、**Kubernetes内部原理**和**复杂系统设计**等实际工作中更重要的知识。面试时因紧张和知识盲区表现不佳，认为企业应更关注候选人对相关技术的理解而非算法能力。
+
+---
+
+## <a name="35"></a>35. 在Bing上搜索“Google”时，Bing伪装成Google 
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/01/08/bing-google-masquerade): When you search for ‚Google' on Bing, Bing masquerades as Google</small>
 
 
@@ -418,7 +442,7 @@ Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析
 
 ---
 
-## <a name="34"></a>34. 全球41%的公司计划到2030年因AI裁员 
+## <a name="36"></a>36. 全球41%的公司计划到2030年因AI裁员 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/01/08/business/ai-job-losses-by-2030-intl/index.html): 41% of companies worldwide plan to reduce workforces by 2030 due to AI</small>
 
 
@@ -430,19 +454,7 @@ Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析
 
 ---
 
-## <a name="35"></a>35. Automattic 调整对 WordPress 的赞助贡献 
-<small>🔗 [automattic.com](https://automattic.com/2025/01/09/aligning-automattics-sponsored-contributions-to-wordpress/): Aligning Automattic's Sponsored Contributions to WordPress</small>
-
-
-| 🔥: 18 | 💬: [5](https://news.ycombinator.com/item?id=42650138) | 🗓️ 2025-01-09
-
-
-<br />
-Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律纠纷和资源分配不平衡问题。**WP Engine 的法律攻击**消耗了大量资源，迫使 Automattic 重新调整策略。未来，Automattic 将专注于内部盈利项目，如 WordPress.com 和 Jetpack，同时承诺匹配 WP Engine 的志愿者贡献时间（约 45 小时/周）。Automattic 强调，此举旨在确保 WordPress 的长期健康发展，并期待未来重返核心贡献。
-
----
-
-## <a name="36"></a>36. Proton(mail) 服务中断 
+## <a name="37"></a>37. Proton(mail) 服务中断 
 <small>🔗 [status.proton.me](https://status.proton.me): Proton(mail) Is Down</small>
 
 
@@ -454,7 +466,7 @@ Proton 服务目前出现**部分中断**，影响包括邮件、VPN、日历、
 
 ---
 
-## <a name="37"></a>37. Rust 1.84.0 发布 
+## <a name="38"></a>38. Rust 1.84.0 发布 
 <small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html): Rust 1.84.0</small>
 
 
@@ -466,7 +478,19 @@ Rust 团队宣布推出 Rust 1.84.0 版本，进一步提升了语言的可靠�
 
 ---
 
-## <a name="38"></a>38. OCaml 5.3.0 发布 
+## <a name="39"></a>39. 永恒运动：弗朗西斯·皮卡比亚的《391》评论（1917–1924） 
+<small>🔗 [publicdomainreview.org](https://publicdomainreview.org/collection/francis-picabia-391-review/): Perpetual Movement: Francis Picabia's 391 Review (1917–1924)</small>
+
+
+| 🔥: 17 | 💬: [0](https://news.ycombinator.com/item?id=42649027) | 🗓️ 2025-01-09
+
+
+<br />
+弗朗西斯·皮卡比亚的《391》杂志（1917–1924）展现了他对艺术和社会的**无政府主义**态度。这本杂志充满了**达达主义**的挑衅与玩世不恭，皮卡比亚通过它批判了艺术界的陈规陋习，甚至包括达达主义本身。最终，他提出了**即时主义**，强调**永恒运动**，拒绝任何固定的艺术流派或意识形态。
+
+---
+
+## <a name="40"></a>40. OCaml 5.3.0 发布 
 <small>🔗 [ocaml.org](https://ocaml.org/changelog): Release of OCaml 5.3.0</small>
 
 
@@ -475,29 +499,5 @@ Rust 团队宣布推出 Rust 1.84.0 版本，进一步提升了语言的可靠�
 
 <br />
 OCaml 5.3.0 版本于 2025 年 1 月 8 日发布，纪念 John William Mauchly 和 Paul Verlaine。此版本引入了**深度效应处理程序**的语法支持，恢复了 MSVC 工具链的 Windows 支持，并重新引入了**统计内存分析**功能。此外，还改进了 Unicode 标识符的支持，优化了 Dynarray 的空间效率，并增强了 Merlin 的元数据功能。
-
----
-
-## <a name="39"></a>39. 软件创建的两大法则：所有问题的根源 
-<small>🔗 [asktheuxer.com](https://asktheuxer.com/2025/01/07/the-two-rules-of-software-creation-from-which-every-problem-derives/): The Two Rules of Software Creation from Which Every Problem Derives</small>
-
-
-| 🔥: 15 | 💬: [2](https://news.ycombinator.com/item?id=42646195) | 🗓️ 2025-01-09
-
-
-<br />
-FJ van Wingerde 讨论了**敏捷开发**和**Scrum**在过去十年中的困境，指出这些方法未能解决软件交付的核心问题。他提出了两大法则：**人类无法准确描述软件需求直到系统存在**，以及**人类无法准确预测超过四周的软件开发时间**。这两大法则解释了敏捷宣言背后的逻辑，并指出所有软件交付问题都源于此。作者计划进一步探讨这些法则的影响及其对改进软件开发的意义。
-
----
-
-## <a name="40"></a>40. 永恒运动：弗朗西斯·皮卡比亚的《391》评论（1917–1924） 
-<small>🔗 [publicdomainreview.org](https://publicdomainreview.org/collection/francis-picabia-391-review/): Perpetual Movement: Francis Picabia's 391 Review (1917–1924)</small>
-
-
-| 🔥: 15 | 💬: [0](https://news.ycombinator.com/item?id=42649027) | 🗓️ 2025-01-09
-
-
-<br />
-弗朗西斯·皮卡比亚的《391》杂志（1917–1924）展现了他对艺术和社会的**无政府主义**态度。这本杂志充满了**达达主义**的挑衅与玩世不恭，皮卡比亚通过它批判了艺术界的陈规陋习，甚至包括达达主义本身。最终，他提出了**即时主义**，强调**永恒运动**，拒绝任何固定的艺术流派或意识形态。
 
 ---
