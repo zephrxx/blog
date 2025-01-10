@@ -26,7 +26,7 @@ tags:
 <small>🔗 [th0mas.nl](https://th0mas.nl/downloads/pdftris.pdf): Show HN: Tetris in a PDF</small>
 
 
-| 🔥🔥: 673 | 💬: [126](https://news.ycombinator.com/item?id=42645218) | 🗓️ 2025-01-09
+| 🔥🔥: 673 \| 💬: [126](https://news.ycombinator.com/item?id=42645218) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/piebro/factorio-blueprint-visualizer): Show HN: Factorio Blueprint Visualizer</small>
 
 
-| 🔥🔥: 349 | 💬: [80](https://news.ycombinator.com/item?id=42644168) | 🗓️ 2025-01-09
+| 🔥🔥: 349 \| 💬: [80](https://news.ycombinator.com/item?id=42644168) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [blog.orange.tw](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/): WorstFit: Unveiling Hidden Transformers in Windows ANSI</small>
 
 
-| 🔥🔥: 199 | 💬: [44](https://news.ycombinator.com/item?id=42647101) | 🗓️ 2025-01-09
+| 🔥🔥: 199 \| 💬: [44](https://news.ycombinator.com/item?id=42647101) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/): VLC tops 6B downloads, previews AI-generated subtitles</small>
 
 
-| 🔥🔥: 151 | 💬: [155](https://news.ycombinator.com/item?id=42644015) | 🗓️ 2025-01-09
+| 🔥🔥: 151 \| 💬: [155](https://news.ycombinator.com/item?id=42644015) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -74,7 +74,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/): My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks</small>
 
 
-| 🔥🔥: 129 | 💬: [79](https://news.ycombinator.com/item?id=42644834) | 🗓️ 2025-01-09
+| 🔥🔥: 129 \| 💬: [79](https://news.ycombinator.com/item?id=42644834) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -86,7 +86,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/stay-gold-america/): Stay Gold, America</small>
 
 
-| 🔥🔥: 111 | 💬: [98](https://news.ycombinator.com/item?id=42644291) | 🗓️ 2025-01-09
+| 🔥🔥: 111 \| 💬: [98](https://news.ycombinator.com/item?id=42644291) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -98,7 +98,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [davidallengreen.com](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/): "Twelfth Night Till Candlemas" – a 40-year book-quest and its remarkable ending</small>
 
 
-| 🔥🔥: 107 | 💬: [24](https://news.ycombinator.com/item?id=42647633) | 🗓️ 2025-01-09
+| 🔥🔥: 107 \| 💬: [24](https://news.ycombinator.com/item?id=42647633) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -110,7 +110,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [selfh.st](https://selfh.st/2024-favorite-new-apps/): My Favorite Self-Hosted Apps Launched in 2024</small>
 
 
-| 🔥🔥: 102 | 💬: [25](https://news.ycombinator.com/item?id=42645119) | 🗓️ 2025-01-09
+| 🔥🔥: 102 \| 💬: [25](https://news.ycombinator.com/item?id=42645119) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -122,7 +122,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
 
 
-| 🔥: 98 | 💬: [79](https://news.ycombinator.com/item?id=42644896) | 🗓️ 2025-01-09
+| 🔥: 98 \| 💬: [79](https://news.ycombinator.com/item?id=42644896) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -134,7 +134,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html): Microsoft should be terrified of SteamOS</small>
 
 
-| 🔥: 97 | 💬: [121](https://news.ycombinator.com/item?id=42644434) | 🗓️ 2025-01-09
+| 🔥: 97 \| 💬: [121](https://news.ycombinator.com/item?id=42644434) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -146,7 +146,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [jobsearchdb.com](https://www.jobsearchdb.com/job-board-categories/remote-only): Directory of remote-only job boards</small>
 
 
-| 🔥: 83 | 💬: [38](https://news.ycombinator.com/item?id=42645099) | 🗓️ 2025-01-09
+| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=42645099) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -158,7 +158,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/): Hitler dismantled a democracy in 53 days through constitutional means</small>
 
 
-| 🔥: 78 | 💬: [73](https://news.ycombinator.com/item?id=42644140) | 🗓️ 2025-01-09
+| 🔥: 78 \| 💬: [73](https://news.ycombinator.com/item?id=42644140) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -170,7 +170,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
 
 
-| 🔥: 74 | 💬: [59](https://news.ycombinator.com/item?id=42649887) | 🗓️ 2025-01-09
+| 🔥: 74 \| 💬: [59](https://news.ycombinator.com/item?id=42649887) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -182,7 +182,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120): Who would buy a Raspberry Pi for $120?</small>
 
 
-| 🔥: 73 | 💬: [126](https://news.ycombinator.com/item?id=42642992) | 🗓️ 2025-01-09
+| 🔥: 73 \| 💬: [126](https://news.ycombinator.com/item?id=42642992) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -194,7 +194,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [bbc.com](https://www.bbc.com/news/videos/c70e2g09ng9o): Man trapped inside driverless car as it spins in circles</small>
 
 
-| 🔥: 72 | 💬: [125](https://news.ycombinator.com/item?id=42644302) | 🗓️ 2025-01-09
+| 🔥: 72 \| 💬: [125](https://news.ycombinator.com/item?id=42644302) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -206,7 +206,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [passo.uno](https://passo.uno/seven-action-model/): The Seven-Action Documentation Model</small>
 
 
-| 🔥: 66 | 💬: [9](https://news.ycombinator.com/item?id=42645075) | 🗓️ 2025-01-09
+| 🔥: 66 \| 💬: [9](https://news.ycombinator.com/item?id=42645075) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -218,7 +218,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Poka-yoke): Poka-Yoke</small>
 
 
-| 🔥: 65 | 💬: [36](https://news.ycombinator.com/item?id=42643532) | 🗓️ 2025-01-09
+| 🔥: 65 \| 💬: [36](https://news.ycombinator.com/item?id=42643532) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -230,7 +230,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
 
 
-| 🔥: 63 | 💬: [11](https://news.ycombinator.com/item?id=42647343) | 🗓️ 2025-01-09
+| 🔥: 63 \| 💬: [11](https://news.ycombinator.com/item?id=42647343) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -242,7 +242,7 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 <small>🔗 [ess-news.com](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/): World's largest pumped storage power plant fully operational in China</small>
 
 
-| 🔥: 63 | 💬: [62](https://news.ycombinator.com/item?id=42649517) | 🗓️ 2025-01-09
+| 🔥: 63 \| 💬: [62](https://news.ycombinator.com/item?id=42649517) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -254,7 +254,7 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 <small>🔗 [hackaday.com](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/): Soldering the Tek Way</small>
 
 
-| 🔥: 59 | 💬: [13](https://news.ycombinator.com/item?id=42650561) | 🗓️ 2025-01-09
+| 🔥: 59 \| 💬: [13](https://news.ycombinator.com/item?id=42650561) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -266,7 +266,7 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 <small>🔗 [calendar.perfplanet.com](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/): Not Every User Owns an iPhone</small>
 
 
-| 🔥: 56 | 💬: [93](https://news.ycombinator.com/item?id=42644506) | 🗓️ 2025-01-09
+| 🔥: 56 \| 💬: [93](https://news.ycombinator.com/item?id=42644506) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -278,7 +278,7 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 <small>🔗 [katesapp.org](https://katesapp.org/hn): Show HN: Kate's App</small>
 
 
-| 🔥: 56 | 💬: [76](https://news.ycombinator.com/item?id=42646922) | 🗓️ 2025-01-09
+| 🔥: 56 \| 💬: [76](https://news.ycombinator.com/item?id=42646922) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -290,7 +290,7 @@ Show HN: 凯特的医疗应用是一款帮助用户**安全分享医疗数据**�
 <small>🔗 [blog.jgc.org](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html): The Complete Text of "All Watched over by Machines of Loving Grace"</small>
 
 
-| 🔥: 56 | 💬: [29](https://news.ycombinator.com/item?id=42646932) | 🗓️ 2025-01-09
+| 🔥: 56 \| 💬: [29](https://news.ycombinator.com/item?id=42646932) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -302,7 +302,7 @@ Richard Brautigan 的诗《**被慈爱的机器守护**》在科技圈中颇有�
 <small>🔗 [theconversation.com](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404): How Britain got its first internet connection (2015)</small>
 
 
-| 🔥: 54 | 💬: [37](https://news.ycombinator.com/item?id=42649340) | 🗓️ 2025-01-09
+| 🔥: 54 \| 💬: [37](https://news.ycombinator.com/item?id=42649340) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -314,7 +314,7 @@ Richard Brautigan 的诗《**被慈爱的机器守护**》在科技圈中颇有�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-024-04215-2): Why kids need to take more risks: science reveal benefits of wild, free play</small>
 
 
-| 🔥: 51 | 💬: [15](https://news.ycombinator.com/item?id=42644742) | 🗓️ 2025-01-09
+| 🔥: 51 \| 💬: [15](https://news.ycombinator.com/item?id=42644742) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -326,7 +326,7 @@ Richard Brautigan 的诗《**被慈爱的机器守护**》在科技圈中颇有�
 <small>🔗 [jirevwe.github.io](https://jirevwe.github.io/sql-nulls-are-weird.html): SQL NULLs Are Weird</small>
 
 
-| 🔥: 45 | 💬: [54](https://news.ycombinator.com/item?id=42645110) | 🗓️ 2025-01-09
+| 🔥: 45 \| 💬: [54](https://news.ycombinator.com/item?id=42645110) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -338,7 +338,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 <small>🔗 [varoa.net](https://varoa.net/2025/01/09/serverless.html): Why aren't we all serverless yet?</small>
 
 
-| 🔥: 44 | 💬: [123](https://news.ycombinator.com/item?id=42645012) | 🗓️ 2025-01-09
+| 🔥: 44 \| 💬: [123](https://news.ycombinator.com/item?id=42645012) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -350,7 +350,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 <small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe): The sad beige aesthetic: why has the world suddenly turned taupe?</small>
 
 
-| 🔥: 31 | 💬: [65](https://news.ycombinator.com/item?id=42643518) | 🗓️ 2025-01-09
+| 🔥: 31 \| 💬: [65](https://news.ycombinator.com/item?id=42643518) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -362,7 +362,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-st-40th-anniversary): Atari ST 40th Anniversary</small>
 
 
-| 🔥: 31 | 💬: [12](https://news.ycombinator.com/item?id=42646914) | 🗓️ 2025-01-09
+| 🔥: 31 \| 💬: [12](https://news.ycombinator.com/item?id=42646914) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -374,7 +374,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/news/how-software-bugs-led-to-one-of-the-greatest-miscarriages-of-justice-in-british-history/): Software Bugs Led to 'One of the Greatest Miscarriages of Justice'</small>
 
 
-| 🔥: 30 | 💬: [9](https://news.ycombinator.com/item?id=42643803) | 🗓️ 2025-01-09
+| 🔥: 30 \| 💬: [9](https://news.ycombinator.com/item?id=42643803) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -386,7 +386,7 @@ SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NU
 <small>🔗 [inside.java](https://inside.java/2025/01/09/sw-startup/): A Deep Dive into JVM Start Up</small>
 
 
-| 🔥: 27 | 💬: [2](https://news.ycombinator.com/item?id=42648280) | 🗓️ 2025-01-09
+| 🔥: 27 \| 💬: [2](https://news.ycombinator.com/item?id=42648280) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -398,7 +398,7 @@ Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析
 <small>🔗 [mirawelner.com](https://mirawelner.com/posts/checkout.html): Can we communally deprecate git checkout?</small>
 
 
-| 🔥: 26 | 💬: [82](https://news.ycombinator.com/item?id=42649858) | 🗓️ 2025-01-09
+| 🔥: 26 \| 💬: [82](https://news.ycombinator.com/item?id=42649858) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -410,7 +410,7 @@ Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析
 <small>🔗 [automattic.com](https://automattic.com/2025/01/09/aligning-automattics-sponsored-contributions-to-wordpress/): Aligning Automattic's Sponsored Contributions to WordPress</small>
 
 
-| 🔥: 26 | 💬: [6](https://news.ycombinator.com/item?id=42650138) | 🗓️ 2025-01-09
+| 🔥: 26 \| 💬: [6](https://news.ycombinator.com/item?id=42650138) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -422,7 +422,7 @@ Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律�
 <small>🔗 [skarlso.github.io](https://skarlso.github.io/2025/01/08/missing-out-on-jobs-because-of-leetcode/): Missing out on jobs because of LeetCode</small>
 
 
-| 🔥: 24 | 💬: [26](https://news.ycombinator.com/item?id=42647746) | 🗓️ 2025-01-09
+| 🔥: 24 \| 💬: [26](https://news.ycombinator.com/item?id=42647746) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -434,7 +434,7 @@ Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/01/08/bing-google-masquerade): When you search for ‚Google' on Bing, Bing masquerades as Google</small>
 
 
-| 🔥: 19 | 💬: [4](https://news.ycombinator.com/item?id=42643423) | 🗓️ 2025-01-09
+| 🔥: 19 \| 💬: [4](https://news.ycombinator.com/item?id=42643423) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -446,7 +446,7 @@ Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律�
 <small>🔗 [cnn.com](https://www.cnn.com/2025/01/08/business/ai-job-losses-by-2030-intl/index.html): 41% of companies worldwide plan to reduce workforces by 2030 due to AI</small>
 
 
-| 🔥: 19 | 💬: [17](https://news.ycombinator.com/item?id=42644379) | 🗓️ 2025-01-09
+| 🔥: 19 \| 💬: [17](https://news.ycombinator.com/item?id=42644379) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -458,7 +458,7 @@ Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律�
 <small>🔗 [status.proton.me](https://status.proton.me): Proton(mail) Is Down</small>
 
 
-| 🔥: 17 | 💬: [11](https://news.ycombinator.com/item?id=42646398) | 🗓️ 2025-01-09
+| 🔥: 17 \| 💬: [11](https://news.ycombinator.com/item?id=42646398) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -470,7 +470,7 @@ Proton 服务目前出现**部分中断**，影响包括邮件、VPN、日历、
 <small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html): Rust 1.84.0</small>
 
 
-| 🔥: 17 | 💬: [0](https://news.ycombinator.com/item?id=42646830) | 🗓️ 2025-01-09
+| 🔥: 17 \| 💬: [0](https://news.ycombinator.com/item?id=42646830) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -482,7 +482,7 @@ Rust 团队宣布推出 Rust 1.84.0 版本，进一步提升了语言的可靠�
 <small>🔗 [publicdomainreview.org](https://publicdomainreview.org/collection/francis-picabia-391-review/): Perpetual Movement: Francis Picabia's 391 Review (1917–1924)</small>
 
 
-| 🔥: 17 | 💬: [0](https://news.ycombinator.com/item?id=42649027) | 🗓️ 2025-01-09
+| 🔥: 17 \| 💬: [0](https://news.ycombinator.com/item?id=42649027) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -494,7 +494,7 @@ Rust 团队宣布推出 Rust 1.84.0 版本，进一步提升了语言的可靠�
 <small>🔗 [ocaml.org](https://ocaml.org/changelog): Release of OCaml 5.3.0</small>
 
 
-| 🔥: 15 | 💬: [1](https://news.ycombinator.com/item?id=42644230) | 🗓️ 2025-01-09
+| 🔥: 15 \| 💬: [1](https://news.ycombinator.com/item?id=42644230) \| 🗓️ 2025-01-09
 
 
 <br />
