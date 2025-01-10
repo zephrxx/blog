@@ -490,14 +490,14 @@ Rust 团队宣布推出 Rust 1.84.0 版本，进一步提升了语言的可靠�
 
 ---
 
-## <a name="40"></a>40. OCaml 5.3.0 发布 
-<small>🔗 [ocaml.org](https://ocaml.org/changelog): Release of OCaml 5.3.0</small>
+## <a name="40"></a>40. 我对2025年CES电视展的失望 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/): Why I'm disappointed with the TVs at CES 2025</small>
 
 
-| 🔥: 15 \| 💬: [1](https://news.ycombinator.com/item?id=42644230) \| 🗓️ 2025-01-09
+| 🔥: 17 \| 💬: [9](https://news.ycombinator.com/item?id=42650855) \| 🗓️ 2025-01-09
 
 
 <br />
-OCaml 5.3.0 版本于 2025 年 1 月 8 日发布，纪念 John William Mauchly 和 Paul Verlaine。此版本引入了**深度效应处理程序**的语法支持，恢复了 MSVC 工具链的 Windows 支持，并重新引入了**统计内存分析**功能。此外，还改进了 Unicode 标识符的支持，优化了 Dynarray 的空间效率，并增强了 Merlin 的元数据功能。
+2025年CES展会上，电视厂商将重点放在**软件和AI**上，而非用户真正需要的硬件改进。LG和三星等品牌推出**AI遥控器**和**生成式AI功能**，但这些功能更多服务于公司的广告和数据收集业务，而非用户体验。高端电视逐渐成为**广告和数据平台**，用户被迫为不必要的功能买单，而真正提升画质和音质的创新却被忽视。
 
 ---
