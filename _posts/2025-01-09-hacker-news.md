@@ -1,0 +1,503 @@
+---
+layout: page
+title: 新闻：勒西科技日报 - 2025年01月09日
+date: 2025-01-09 00:00:00
+categories: 新闻
+tags:
+  - hacker_news
+---
+
+
+1. Show HN: PDF 中的俄罗斯方块；
+1. Show HN: Factorio 蓝图可视化工具；
+1. WorstFit：揭露Windows ANSI中的隐藏转换漏洞；
+1. VLC 下载量突破 60 亿，预览 AI 生成字幕功能；
+1. 我的亚马逊电视现在在Prime Video广告时段自动取消静音；
+
+以上是今天的前五条黑科技新闻标题。
+
+总共40条，具体内容您往下读...
+
+
+![](/assets/images/hacker_news.jpg)
+
+
+## <a name="1"></a>1. Show HN: PDF 中的俄罗斯方块 
+<small>🔗 [th0mas.nl](https://th0mas.nl/downloads/pdftris.pdf): Show HN: Tetris in a PDF</small>
+
+
+| 🔥🔥: 800 \| 💬: [141](https://news.ycombinator.com/item?id=42645218) \| 🗓️ 2025-01-09
+
+
+<br />
+该项目展示了一个**创新的 PDF 文件**，其中嵌入了可玩的**俄罗斯方块游戏**。通过 PDF 的注释功能，创建了一个交互式的游戏界面，用户可以直接在 PDF 中操作。这展示了 PDF 格式的**多功能性**，超越了传统的文档阅读功能。
+
+---
+
+## <a name="2"></a>2. Show HN: Factorio 蓝图可视化工具 
+<small>🔗 [github.com](https://github.com/piebro/factorio-blueprint-visualizer): Show HN: Factorio Blueprint Visualizer</small>
+
+
+| 🔥🔥: 376 \| 💬: [85](https://news.ycombinator.com/item?id=42644168) \| 🗓️ 2025-01-09
+
+
+<br />
+这是一个用于**艺术化可视化**《Factorio》蓝图的Python库，并附带一个交互式网页演示。用户可以通过导入蓝图文本生成**矢量图形（SVG）**，支持调整绘图设置或随机生成。工具支持**Factorio 2.0**及更高版本，并可用于生成图像数据集或**笔式绘图**。开发使用Python和JavaScript，欢迎贡献。
+
+---
+
+## <a name="3"></a>3. WorstFit：揭露Windows ANSI中的隐藏转换漏洞 
+<small>🔗 [blog.orange.tw](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/): WorstFit: Unveiling Hidden Transformers in Windows ANSI</small>
+
+
+| 🔥🔥: 229 \| 💬: [56](https://news.ycombinator.com/item?id=42647101) \| 🗓️ 2025-01-09
+
+
+<br />
+该研究揭示了Windows中**Best-Fit**字符转换机制的安全隐患，该机制在将UTF-16字符转换为ANSI时可能导致意外的字符映射。通过利用这一特性，研究人员成功实现了**路径遍历**、**参数注入**和**远程代码执行**等攻击，影响了多个知名应用程序。研究还探讨了在开源生态系统中修复此类问题的挑战。
+
+---
+
+## <a name="4"></a>4. VLC 下载量突破 60 亿，预览 AI 生成字幕功能 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/): VLC tops 6B downloads, previews AI-generated subtitles</small>
+
+
+| 🔥🔥: 151 \| 💬: [155](https://news.ycombinator.com/item?id=42644015) \| 🗓️ 2025-01-09
+
+
+<br />
+VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **开源 AI 模型** 的实时字幕生成功能。该功能支持离线运行，无需联网或云服务，并可翻译成多种语言。VLC 自 1996 年成立以来，始终保持免费、无广告模式，用户数量持续增长。
+
+---
+
+## <a name="5"></a>5. 我的亚马逊电视现在在Prime Video广告时段自动取消静音 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/): My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks</small>
+
+
+| 🔥🔥: 131 \| 💬: [81](https://news.ycombinator.com/item?id=42644834) \| 🗓️ 2025-01-09
+
+
+<br />
+用户在Reddit上抱怨，**亚马逊电视**在Prime Video广告时段会自动取消静音，引发广泛讨论。许多用户表示这种行为令人反感，甚至考虑退货。评论中有人调侃这是**“黑镜”式**的未来趋势，也有人提到广告泛滥的现状，尤其是YouTube的广告问题。
+
+---
+
+## <a name="6"></a>6. 《从圣诞夜到圣烛节》——40年的寻书之旅及其非凡结局 
+<small>🔗 [davidallengreen.com](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/): "Twelfth Night Till Candlemas" – a 40-year book-quest and its remarkable ending</small>
+
+
+| 🔥🔥: 120 \| 💬: [27](https://news.ycombinator.com/item?id=42647633) \| 🗓️ 2025-01-09
+
+
+<br />
+一位作者历经40年寻找童年时读过的一本书，最终在一位**图书管理员**的帮助下成功找到。这本书讲述了一个关于**圣烛节**的民间故事，涉及精灵和圣诞装饰的传说。作者在搜索过程中遭遇了**ChatGPT**的误导，但最终通过传统图书馆资源和档案找到了这本珍贵的书。
+
+---
+
+## <a name="7"></a>7. 保持金色，美国 
+<small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/stay-gold-america/): Stay Gold, America</small>
+
+
+| 🔥🔥: 111 \| 💬: [98](https://news.ycombinator.com/item?id=42644291) \| 🗓️ 2025-01-09
+
+
+<br />
+作者表达了对**美国梦**的担忧，指出住房、医疗和教育成本飙升，财富集中严重，42%的成年人未参与投票。他分享了个人成长经历，强调通过慈善捐赠支持弱势群体，并呼吁通过**数字民主**和**同理心**重建社会共识。他承诺将一半财富用于长期努力，确保更多人能实现美国梦。
+
+---
+
+## <a name="8"></a>8. 2024年我最喜欢的自托管应用 
+<small>🔗 [selfh.st](https://selfh.st/2024-favorite-new-apps/): My Favorite Self-Hosted Apps Launched in 2024</small>
+
+
+| 🔥🔥: 107 \| 💬: [25](https://news.ycombinator.com/item?id=42645119) \| 🗓️ 2025-01-09
+
+
+<br />
+2024年是自托管软件蓬勃发展的一年，Ethan Sholly精选了多款**功能独特**且**社区反响热烈**的新应用。其中包括**Hoarder**（书签管理）、**Pinchflat**（YouTube内容管理）和**Glance**（多功能仪表盘）等。这些应用不仅界面简洁，还支持AI集成和多平台兼容，为自托管爱好者提供了更多选择。
+
+---
+
+## <a name="9"></a>9. 有理还是无理？这个基础数学问题花了几十年才得到答案 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
+
+
+| 🔥🔥: 104 \| 💬: [82](https://news.ycombinator.com/item?id=42644896) \| 🗓️ 2025-01-09
+
+
+<br />
+1978年，数学家罗杰·阿佩里证明了**ζ(3)**（黎曼ζ函数在3处的值）是**无理数**，震惊了数学界。尽管他的证明起初遭到质疑，但最终被接受。然而，阿佩里的方法难以推广。如今，数学家弗兰克·卡莱加里等人扩展了阿佩里的方法，证明了更多**ζ函数值**的无理性，这一突破有望推动更多相关证明的出现。
+
+---
+
+## <a name="10"></a>10. 焊接的泰克之道 
+<small>🔗 [hackaday.com](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/): Soldering the Tek way</small>
+
+
+| 🔥: 100 \| 💬: [53](https://news.ycombinator.com/item?id=42650561) \| 🗓️ 2025-01-09
+
+
+<br />
+在20世纪70年代末至80年代初，Tektronix公司通过制作详细的培训视频，教导员工掌握**焊接技巧**。视频涵盖了从基础焊接理论到实际操作，特别是**焊铁的使用**和**修复技巧**。重点强调了避免损坏PCB的方法，以及如何使修复后的电路板保持美观。这些视频至今仍具有实用价值。
+
+---
+
+## <a name="11"></a>11. 微软应该对SteamOS感到恐惧 
+<small>🔗 [pcworld.com](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html): Microsoft should be terrified of SteamOS</small>
+
+
+| 🔥: 97 \| 💬: [121](https://news.ycombinator.com/item?id=42644434) \| 🗓️ 2025-01-09
+
+
+<br />
+SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。Valve的**Proton兼容层**让Windows游戏在Linux上运行顺畅，而Windows在手持设备上的表现不佳。随着**Lenovo**等厂商采用SteamOS，微软在PC游戏市场的主导地位可能受到挑战。
+
+---
+
+## <a name="12"></a>12. 如何删除你的Facebook账户 
+<small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
+
+
+| 🔥: 86 \| 💬: [70](https://news.ycombinator.com/item?id=42649887) \| 🗓️ 2025-01-09
+
+
+<br />
+由于Meta对**仇恨言论定义**的更改以及**事实核查**的重要性下降，许多人考虑删除Facebook账户。首先，建议**下载个人数据存档**，包括照片、聊天记录等。然后，通过账户中心选择**删除账户**，并确认密码。删除后，账户将在一段时间内不可访问，但部分内容可能仍会保留。
+
+---
+
+## <a name="13"></a>13. 我对2025年CES电视展的失望 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/): Disappointed with the TVs at CES 2025</small>
+
+
+| 🔥: 85 \| 💬: [113](https://news.ycombinator.com/item?id=42650855) \| 🗓️ 2025-01-09
+
+
+<br />
+2025年CES展会上，电视厂商将重点放在**软件和AI**上，而非用户真正需要的硬件改进。LG和三星等品牌推出**AI遥控器**和**生成式AI功能**，但这些功能更多服务于公司的广告和数据收集业务，而非用户体验。高端电视逐渐成为**广告和数据平台**，用户被迫为不必要的功能买单，而真正提升画质和音质的创新却被忽视。
+
+---
+
+## <a name="14"></a>14. 远程工作职位平台目录 
+<small>🔗 [jobsearchdb.com](https://www.jobsearchdb.com/job-board-categories/remote-only): Directory of remote-only job boards</small>
+
+
+| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=42645099) \| 🗓️ 2025-01-09
+
+
+<br />
+本文介绍了多个专注于**远程工作**的职位平台，涵盖**技术、销售、人力资源、客户支持**等多个领域。平台如Remote Rocketship、We Work Remotely等提供丰富的职位选择，适合寻找**远程工作**机会的求职者。此外，还提供免费培训课程，帮助求职者提升技能并找到理想工作。
+
+---
+
+## <a name="15"></a>15. 糖果传奇、Tinder、MyFitnessPal：应用程序被劫持以追踪位置 
+<small>🔗 [wired.com](https://www.wired.com/story/gravy-location-data-app-leak-rtb/): Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location</small>
+
+
+| 🔥: 82 \| 💬: [30](https://news.ycombinator.com/item?id=42651115) \| 🗓️ 2025-01-09
+
+
+<br />
+一些全球热门应用程序可能被广告行业的**恶意成员**利用，大规模收集敏感位置数据，这些数据最终流向一家位置数据公司，其子公司曾向美国执法部门出售全球位置数据。数据通过**实时竞价广告系统**获取，而非应用程序开发者嵌入的代码，导致用户和开发者可能对此毫不知情。
+
+---
+
+## <a name="16"></a>16. 英国如何获得其首个互联网连接（2015） 
+<small>🔗 [theconversation.com](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404): How Britain got its first internet connection (2015)</small>
+
+
+| 🔥: 80 \| 💬: [49](https://news.ycombinator.com/item?id=42649340) \| 🗓️ 2025-01-09
+
+
+<br />
+1970年代，英国计算机科学家**Peter Kirstein**通过连接伦敦大学学院（UCL）与美国**Arpanet**，实现了英国首个互联网连接。尽管面临政府阻力和技术挑战，Kirstein成功建立了跨大西洋的网络连接，并引入了**密码保护**，成为Arpanet上的首个密码系统。这一突破为英国科研人员提供了与美国同行协作的平台，标志着英国互联网时代的开端。
+
+---
+
+## <a name="17"></a>17. 希特勒在53天内通过宪法手段摧毁民主 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/): Hitler dismantled a democracy in 53 days through constitutional means</small>
+
+
+| 🔥: 78 \| 💬: [73](https://news.ycombinator.com/item?id=42644140) \| 🗓️ 2025-01-09
+
+
+<br />
+1933年1月30日，希特勒被任命为魏玛共和国总理，开始通过**宪法手段**瓦解民主制度。他利用《授权法》绕过议会，集中权力，逐步废除分权制衡。尽管面临反对，希特勒通过操纵选举、压制反对派和媒体，迅速巩固独裁统治。这一过程揭示了**政治偶然性**而非历史必然性。
+
+---
+
+## <a name="18"></a>18. 谁会花120美元买一个树莓派？ 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120): Who would buy a Raspberry Pi for $120?</small>
+
+
+| 🔥: 74 \| 💬: [126](https://news.ycombinator.com/item?id=42642992) \| 🗓️ 2025-01-09
+
+
+<br />
+树莓派5最新型号配备**16GB内存**，售价120美元。虽然性能有所提升，但与仅差20美元的GMKTec N100迷你PC相比，性价比不高。**8GB或4GB型号**更适合大多数用户。16GB型号的优势在于支持**大型语言模型**、多任务处理和某些高性能应用，但对普通用户来说可能过于昂贵。
+
+---
+
+## <a name="19"></a>19. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
+<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
+
+
+| 🔥: 74 \| 💬: [13](https://news.ycombinator.com/item?id=42647343) \| 🗓️ 2025-01-09
+
+
+<br />
+TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专为小型到中型数据集设计。它通过**上下文学习（ICL）**在数百万个合成数据集上进行预训练，能够在单次前向传播中显著超越传统方法（如梯度提升决策树）。TabPFN支持分类、回归、数据生成和密度估计，适用于**跨领域科学发现**和决策优化。
+
+---
+
+## <a name="20"></a>20. 七步文档模型 
+<small>🔗 [passo.uno](https://passo.uno/seven-action-model/): The Seven-Action Documentation Model</small>
+
+
+| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=42645075) \| 🗓️ 2025-01-09
+
+
+<br />
+本文提出了一种以用户需求为中心的文档模型，强调从**用户行为**而非内容类型出发构建文档。模型包含七个核心行为：**评估、理解、探索、实践、记忆、开发、故障排除**，旨在帮助用户通过文档实现目标。该模型灵活适配多种文档框架，强调文档作为产品的战略价值，而非单纯的内容生产。
+
+---
+
+## <a name="21"></a>21. 男子被困无人驾驶车内，车辆原地打转 
+<small>🔗 [bbc.com](https://www.bbc.com/news/videos/c70e2g09ng9o): Man trapped inside driverless car as it spins in circles</small>
+
+
+| 🔥: 72 \| 💬: [125](https://news.ycombinator.com/item?id=42644302) \| 🗓️ 2025-01-09
+
+
+<br />
+一名男子在亚利桑那州斯科茨代尔乘坐**Waymo无人驾驶出租车**前往机场时，车辆在停车场内**原地打转**，导致他无法下车或求助，险些错过航班。男子拍下了被困过程，事件引发对无人驾驶技术安全性的关注。
+
+---
+
+## <a name="22"></a>22. 防错法（Poka-Yoke） 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Poka-yoke): Poka-Yoke</small>
+
+
+| 🔥: 66 \| 💬: [39](https://news.ycombinator.com/item?id=42643532) \| 🗓️ 2025-01-09
+
+
+<br />
+防错法是一种源自日本丰田生产系统的**错误预防**机制，旨在通过设计流程或设备来避免人为错误。其核心思想是通过**行为约束**或**强制功能**，防止、纠正或提醒操作员在过程中可能出现的错误。例如，汽车启动前必须踩下离合器或刹车踏板，微波炉门未关时无法启动等。防错法广泛应用于制造业和服务业，帮助减少缺陷、提高效率并确保产品质量。
+
+---
+
+## <a name="23"></a>23. 中国建成全球最大抽水蓄能电站 
+<small>🔗 [ess-news.com](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/): World's largest pumped storage power plant fully operational in China</small>
+
+
+| 🔥: 65 \| 💬: [68](https://news.ycombinator.com/item?id=42649517) \| 🗓️ 2025-01-09
+
+
+<br />
+位于河北丰宁的**丰宁抽水蓄能电站**于12月31日全面投运，总装机容量达**3.6吉瓦**，是全球最大的抽水蓄能设施。该电站采用先进的可变速水泵水轮机技术，支持附近10吉瓦风光基地，助力华北电网平衡可再生能源波动。中国在抽水蓄能领域处于全球领先地位，未来将继续扩大此类项目以稳定电网并最大化清洁能源利用。
+
+---
+
+## <a name="24"></a>24. 《被慈爱的机器守护》完整文本 
+<small>🔗 [blog.jgc.org](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html): The Complete Text of "All Watched over by Machines of Loving Grace"</small>
+
+
+| 🔥: 58 \| 💬: [30](https://news.ycombinator.com/item?id=42646932) \| 🗓️ 2025-01-09
+
+
+<br />
+Richard Brautigan 的诗《**被慈爱的机器守护**》在科技圈中颇有名气，但1967年原版诗集（包含其他诗作）的完整PDF在网上难以找到。根据版权声明，只要免费分发，这些诗可以被转载。作者将“印刷”解释为包括免费PDF的提供，并在此分享了完整书籍的扫描版。
+
+---
+
+## <a name="25"></a>25. 并非每个用户都拥有iPhone 
+<small>🔗 [calendar.perfplanet.com](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/): Not Every User Owns an iPhone</small>
+
+
+| 🔥: 57 \| 💬: [93](https://news.ycombinator.com/item?id=42644506) \| 🗓️ 2025-01-09
+
+
+<br />
+文章探讨了**iOS与Android设备**在网页性能上的显著差异，指出Android用户在使用低端设备时，**页面加载速度**和**交互响应时间**明显较慢。作者强调，开发者应关注**真实用户条件**，避免仅在高性能设备上测试，以确保为所有用户提供良好的体验。
+
+---
+
+## <a name="26"></a>26. 凯特的医疗应用 
+<small>🔗 [katesapp.org](https://katesapp.org/hn): Show HN: Kate's App</small>
+
+
+| 🔥: 57 \| 💬: [76](https://news.ycombinator.com/item?id=42646922) \| 🗓️ 2025-01-09
+
+
+<br />
+Show HN: 凯特的医疗应用是一款帮助用户**安全分享医疗数据**的工具。用户可以**管理处方、医生联系方式和预约**，并记录笔记。支持存储**实验室报告、疫苗接种记录**等重要信息，方便随时查阅和共享。
+
+---
+
+## <a name="27"></a>27. SQL 中的 NULL 值很奇怪 
+<small>🔗 [jirevwe.github.io](https://jirevwe.github.io/sql-nulls-are-weird.html): SQL nulls are weird</small>
+
+
+| 🔥: 55 \| 💬: [71](https://news.ycombinator.com/item?id=42645110) \| 🗓️ 2025-01-09
+
+
+<br />
+SQL 中的 **NULL 值** 在比较和唯一性约束中表现独特。**NULL = NULL** 返回 NULL，因为 NULL 代表未知值，无法确定是否相等。在 **UNIQUE 约束** 下，多个 NULL 值被视为不同，允许插入。通过 **生成列** 或 **部分索引** 可以解决唯一性问题，但部分索引更高效且节省空间。
+
+---
+
+## <a name="28"></a>28. 为什么孩子需要更多冒险：科学揭示自由玩耍的益处 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-024-04215-2): Why kids need to take more risks: science reveal benefits of wild, free play</small>
+
+
+| 🔥: 52 \| 💬: [15](https://news.ycombinator.com/item?id=42644742) \| 🗓️ 2025-01-09
+
+
+<br />
+研究表明，**冒险游戏**（如攀爬、跳跃等）对儿童的身心发展至关重要，能培养空间意识、协调能力和自信心。尽管许多国家对此限制增加，但科学家通过虚拟现实等创新方法探索其益处。**冒险游戏**有助于提升抗压能力、社交技能和心理健康，尤其对低收入家庭儿童更具保护作用。家长应提供安全环境，让孩子自主探索。
+
+---
+
+## <a name="29"></a>29. 为什么我们还没有全面采用无服务器架构？ 
+<small>🔗 [varoa.net](https://varoa.net/2025/01/09/serverless.html): Why aren't we all serverless yet?</small>
+
+
+| 🔥: 44 \| 💬: [127](https://news.ycombinator.com/item?id=42645012) \| 🗓️ 2025-01-09
+
+
+<br />
+尽管**无服务器计算**（如AWS Lambda）提供了高度抽象和自动扩展的优势，但其大规模采用仍未实现。主要障碍包括**微服务转型的遗留问题**和**组织准备不足**。无服务器架构进一步加剧了微服务带来的复杂性，尤其是在**负载基础设施**和**组织适应性**方面。尽管无服务器在特定场景（如AI集成）中表现优异，但全面迁移仍需时间和低风险的渐进策略。
+
+---
+
+## <a name="30"></a>30. Automattic 调整对 WordPress 的赞助贡献 
+<small>🔗 [automattic.com](https://automattic.com/2025/01/09/aligning-automattics-sponsored-contributions-to-wordpress/): Aligning Automattic's Sponsored Contributions to WordPress</small>
+
+
+| 🔥: 38 \| 💬: [10](https://news.ycombinator.com/item?id=42650138) \| 🗓️ 2025-01-09
+
+
+<br />
+Automattic 宣布将减少对 WordPress 项目的赞助贡献，以应对法律纠纷和资源分配不平衡问题。**WP Engine 的法律攻击**消耗了大量资源，迫使 Automattic 重新调整策略。未来，Automattic 将专注于内部盈利项目，如 WordPress.com 和 Jetpack，同时承诺匹配 WP Engine 的志愿者贡献时间（约 45 小时/周）。Automattic 强调，此举旨在确保 WordPress 的长期健康发展，并期待未来重返核心贡献。
+
+---
+
+## <a name="31"></a>31. 电视：极速通用模糊查找器 TUI 
+<small>🔗 [github.com](https://github.com/alexpasmantier/television): Television: Fast general purpose fuzzy finder TUI</small>
+
+
+| 🔥: 37 \| 💬: [10](https://news.ycombinator.com/item?id=42651487) \| 🗓️ 2025-01-09
+
+
+<br />
+**Television** 是一款**快速且多功能**的模糊查找器 TUI（终端用户界面），支持通过模糊匹配算法快速搜索各种数据源（如文件、Git 仓库、环境变量等）。它采用异步 I/O 和多线程技术，确保流畅的响应速度，并内置多种**频道**和**预览器**，支持自定义配置和主题。适用于 Linux、MacOS 和 Windows，兼容主流终端模拟器。
+
+---
+
+## <a name="32"></a>32. 我们可以共同弃用 git checkout 吗？ 
+<small>🔗 [mirawelner.com](https://mirawelner.com/posts/checkout.html): Can we communally deprecate git checkout?</small>
+
+
+| 🔥: 34 \| 💬: [99](https://news.ycombinator.com/item?id=42649858) \| 🗓️ 2025-01-09
+
+
+<br />
+作者认为 **git checkout** 是一个功能过于复杂且混乱的命令，适合替换为 **git switch** 和 **git restore**。虽然 Git 官方不会移除 `checkout`，但建议社区停止向新手推荐它，以避免混淆。Git 是一个强大的版本控制系统，但应避免使用过于复杂的命令。
+
+---
+
+## <a name="33"></a>33. 数千款应用被劫持以追踪你的位置 
+<small>🔗 [404media.co](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/): See the Thousands of Apps Hijacked to Spy on Your Location</small>
+
+
+| 🔥: 33 \| 💬: [9](https://news.ycombinator.com/item?id=42651087) \| 🗓️ 2025-01-09
+
+
+<br />
+一些全球最受欢迎的应用程序可能被广告行业的恶意成员利用，大规模收集敏感位置数据。这些数据最终流向一家位置数据公司，其子公司曾向美国执法部门出售全球位置数据。**Gravy Analytics** 的黑客文件显示，数千款应用（包括《糖果粉碎传奇》、Tinder、孕期追踪和宗教祈祷应用）通过广告生态系统收集数据，而非应用开发者本身的代码。**实时竞价（RTB）** 系统成为数据收集的主要途径，导致用户和开发者可能对此毫不知情。
+
+---
+
+## <a name="34"></a>34. 为什么世界突然变成了米色？ 
+<small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe): The sad beige aesthetic: why has the world suddenly turned taupe?</small>
+
+
+| 🔥: 31 \| 💬: [65](https://news.ycombinator.com/item?id=42643518) \| 🗓️ 2025-01-09
+
+
+<br />
+近年来，**米色美学**在时尚和室内设计中占据主导地位，被称为“**悲伤米色**”。这种色调以其**中性、温暖和镇静**的特性吸引了众多追随者，尤其是在社交媒体上。许多人认为米色能带来平静和舒适感，尤其是在后疫情时代，人们更倾向于在家中营造温馨的氛围。然而，也有人批评这种风格缺乏创意，认为它反映了现代生活的疲惫和无力感。
+
+---
+
+## <a name="35"></a>35. 软件漏洞导致“英国历史上最大的司法不公” 
+<small>🔗 [cacm.acm.org](https://cacm.acm.org/news/how-software-bugs-led-to-one-of-the-greatest-miscarriages-of-justice-in-british-history/): Software Bugs Led to 'One of the Greatest Miscarriages of Justice'</small>
+
+
+| 🔥: 31 \| 💬: [9](https://news.ycombinator.com/item?id=42643803) \| 🗓️ 2025-01-09
+
+
+<br />
+1999年至2015年间，英国近1000名邮局经理因**富士通Horizon软件系统**的错误显示账户失衡而被错误定罪，导致监禁、财务破产甚至自杀。2024年，英国政府撤销了所有相关定罪，并启动赔偿计划。调查发现，**Horizon系统**存在严重编码和测试问题，漏洞频发，导致无辜者蒙冤。
+
+---
+
+## <a name="36"></a>36. 雅达利ST 40周年纪念 
+<small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-st-40th-anniversary): Atari ST 40th Anniversary</small>
+
+
+| 🔥: 31 \| 💬: [12](https://news.ycombinator.com/item?id=42646914) \| 🗓️ 2025-01-09
+
+
+<br />
+1985年1月，**雅达利ST**在冬季消费电子展（CES）上首次亮相，标志着这款16位计算机的诞生。雅达利以“**价格与性能的革命**”为口号，推出了130ST和520ST两款机型，搭载**MC68000处理器**和GEM图形界面，支持MIDI音乐接口。尽管130ST因内存不足未能上市，520ST以**800美元**的低价震撼市场，成为当时性价比极高的16位计算机。40年后，雅达利ST仍被视为计算机历史上的重要里程碑。
+
+---
+
+## <a name="37"></a>37. 深入探讨JVM启动过程 
+<small>🔗 [inside.java](https://inside.java/2025/01/09/sw-startup/): A Deep Dive into JVM Start Up</small>
+
+
+| 🔥: 31 \| 💬: [2](https://news.ycombinator.com/item?id=42648280) \| 🗓️ 2025-01-09
+
+
+<br />
+Billy Korando于2025年1月9日发布了一篇关于**JVM启动**的详细分析。文章探讨了**Java虚拟机**的启动机制，重点介绍了**类加载**和**内存初始化**等关键步骤。适合对JVM底层实现感兴趣的开发者阅读。
+
+---
+
+## <a name="38"></a>38. Meta员工抗议扎克伯格的反LGBTQ政策调整 
+<small>🔗 [404media.co](https://www.404media.co/its-total-chaos-internally-at-meta-right-now-employees-protest-zuckerbergs-anti-lgbtq-changes/): Total Chaos at Meta: Employees Protest Zuckerberg's Anti LGBTQ Changes</small>
+
+
+| 🔥: 29 \| 💬: [10](https://news.ycombinator.com/item?id=42651178) \| 🗓️ 2025-01-09
+
+
+<br />
+Meta员工对公司新宣布的内容审核政策感到愤怒，该政策允许用户称LGBTQ+群体为“**精神疾病**”。扎克伯格表示将减少内容审核，回归“**言论自由**”的初衷。员工在内部平台表达不满，称此举加剧了对LGBTQ+的**污名化**。此前，Meta还删除了关于扎克伯格任命UFC总裁达纳·怀特为董事会成员的内部异议。
+
+---
+
+## <a name="39"></a>39. Rodney Brooks：2025年预测成绩单 
+<small>🔗 [rodneybrooks.com](https://rodneybrooks.com/predictions-scorecard-2025-january-01/): Predictions Scorecard, 2025 January 01</small>
+
+
+| 🔥: 29 \| 💬: [6](https://news.ycombinator.com/item?id=42651275) \| 🗓️ 2025-01-09
+
+
+<br />
+Rodney Brooks回顾了2018年对**自动驾驶汽车**、**机器人**、**AI**和**人类太空旅行**的预测，并计划在2026年发布新的十年预测。他批评了当前AI和机器人领域的过度炒作，指出技术进步虽显著，但远未达到取代人类工作的程度。自动驾驶汽车虽取得进展，但仍依赖远程人工监控，经济优势受限。Brooks强调理性评估技术发展，避免被炒作误导。
+
+---
+
+## <a name="40"></a>40. 等宽字体中的连字处理 
+<small>🔗 [joshleeb.com](https://joshleeb.com/posts/monospace-ligatures.html): Shaping ligatures in monospace fonts</small>
+
+
+| 🔥: 27 \| 💬: [4](https://news.ycombinator.com/item?id=42650501) \| 🗓️ 2025-01-09
+
+
+<br />
+在开发图形代码编辑器时，作者探索了**文本渲染**中的**连字**处理问题。通过使用MonoLisa等宽字体，作者发现连字处理中会出现**LIGSPACE**（连字空格）字形，其不渲染但影响字符间距。通过实验，作者得出结论：在等宽字体中，连字空格用于调整字符间距，确保连字与普通字符宽度一致。这一发现为文本渲染提供了新的思路。
+
+---
