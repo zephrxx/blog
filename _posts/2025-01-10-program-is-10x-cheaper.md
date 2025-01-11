@@ -7,9 +7,7 @@ tags:
   - AI
 ---
 
-本文基于这样一个命题：**AI 能让程序员的效率提高10倍。**
-
-以及这样一个推论：**AI可以生成的产品，如插画图片、广告视频、背景音乐等产品的生产效率都会提高10倍**。
+本文基于这样一个命题：**AI 能让程序员的效率提高10倍。** 以及这样一个推论：**AI可以生成的产品，如插画图片、广告视频、背景音乐等产品的生产效率都会提高10倍**。
 
 ## AI让程序的成本降低一个数量级
 
@@ -19,7 +17,6 @@ tags:
 
 这一变革会扩散到AI生成相关领域。**广告文案**创作，以前策划人员想广告词要绞尽脑汁数日，如今借助AI输入关键信息，瞬间可得多条创意文案，筛选、优化后缩短创作周期。**广告视频**制作同理，从脚本构思到画面剪辑，AI能辅助，原本数周的项目如今几天就能出初稿。游戏开发中的**背景音乐**创作，甚至都不需要专门请人。
 
-<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0c3yiODsOJw?si=hkAJHAd20PVltQUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 
