@@ -17,7 +17,7 @@ tags:
 
 这一变革会扩散到AI生成相关领域。**广告文案**创作，以前策划人员想广告词要绞尽脑汁数日，如今借助AI输入关键信息，瞬间可得多条创意文案，筛选、优化后缩短创作周期。**广告视频**制作同理，从脚本构思到画面剪辑，AI能辅助，原本数周的项目如今几天就能出初稿。游戏开发中的**背景音乐**创作，甚至都不需要专门请人。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0c3yiODsOJw?si=hkAJHAd20PVltQUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="420" height="236" src="https://www.youtube.com/embed/0c3yiODsOJw?si=hkAJHAd20PVltQUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 
 当下仍在学习**插画创作**的学生，面临着毕业即失业的困境。而学习音乐的人，若仅仅着眼于为电视节目、游戏等谱曲，日后就业也不容乐观。
