@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 观点：如何抑制争斗的冲动
+title: 如何抑制争斗的冲动
 date: 2025-01-06 12:00:00
 categories: 观点
 tags:

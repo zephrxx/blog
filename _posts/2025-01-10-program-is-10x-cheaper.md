@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 观点：AI大潮下的我的一些趋势预测
+title: AI大潮下的我的一些趋势预测
 date: 2025-01-10 23:00:00
 categories: 观点
 tags:
