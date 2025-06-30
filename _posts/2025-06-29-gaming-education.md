@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 游戏即人生
-date: 2025-06-27 23:00:00
+date: 2025-06-29 23:00:00
 categories: 观点
 tags:
   - 成长 教育
